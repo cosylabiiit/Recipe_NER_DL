@@ -1,0 +1,2188 @@
+sentence,tags
+"6 ounces fresh mushrooms , sliced",QUANTITY UNIT DF NAME O STATE
+4 corn tortillas,QUANTITY NAME NAME
+1 -LRB- 9 ounce -RRB- package refrigerated cheese tortellini,QUANTITY O QUANTITY UNIT O UNIT DF NAME NAME
+2 tablespoons chopped fresh basil leaves,QUANTITY UNIT STATE DF NAME NAME
+3/4 cup white sugar,QUANTITY UNIT NAME NAME
+2 tablespoons extra-virgin olive oil,QUANTITY UNIT NAME NAME NAME
+"1 tomato , thinly sliced",QUANTITY NAME O O STATE
+2 -LRB- 8 ounce -RRB- cans refrigerated crescent rolls,QUANTITY O QUANTITY UNIT O UNIT DF NAME NAME
+6 -LRB- 6 ounce -RRB- tilapia fillets,QUANTITY O QUANTITY UNIT O NAME NAME
+11/2 teaspoons curry powder,QUANTITY UNIT NAME NAME
+1 tablespoon Worcestershire sauce,QUANTITY UNIT NAME NAME
+"3 large garlic cloves , minced",QUANTITY SIZE NAME UNIT O STATE
+1/3 cup orange juice,QUANTITY UNIT NAME NAME
+"1/2 cup chopped onion , or to taste",QUANTITY UNIT STATE NAME O O O O
+1 teaspoon ground thyme,QUANTITY UNIT STATE O
+2 -LRB- 1.5 fluid ounce -RRB- jiggers banana liqueur,QUANTITY O QUANTITY UNIT UNIT O NAME NAME NAME
+3/4 cup shredded mozzarella cheese,QUANTITY UNIT STATE NAME NAME
+"4 -LRB- 4 ounce -RRB- fillets salmon , skin removed",QUANTITY O QUANTITY UNIT O NAME NAME O O O
+1 cup vegetable oil,QUANTITY UNIT NAME NAME
+"1 pound fresh green beans , cut into 1 inch pieces",QUANTITY UNIT DF NAME NAME O STATE O QUANTITY UNIT O
+1 teaspoon sesame oil,QUANTITY UNIT NAME NAME
+11/2 pounds ground beef,QUANTITY UNIT STATE NAME
+1 pound salad shrimp,QUANTITY UNIT NAME NAME
+"2 portobello mushroom caps , sliced",QUANTITY NAME NAME NAME O STATE
+3/4 pound crabmeat,QUANTITY UNIT NAME
+1/2 pint sour cream,QUANTITY UNIT STATE NAME
+"1 bunch green onions , minced",QUANTITY UNIT NAME NAME O STATE
+1 tablespoon poppy seeds,QUANTITY UNIT NAME NAME
+1/4 cup cornstarch,QUANTITY UNIT NAME
+2 tablespoons chopped fresh mint,QUANTITY UNIT STATE DF NAME
+1/4 cup milk,QUANTITY UNIT NAME
+2 teaspoons granulated garlic,QUANTITY UNIT STATE NAME
+1 -LRB- 12 ounce -RRB- box Barilla Gluten Free Penne,QUANTITY O QUANTITY UNIT O UNIT NAME NAME NAME NAME
+"4 medium tomatoes , halved",QUANTITY SIZE NAME O UNIT
+1 pinch cayenne pepper,QUANTITY UNIT NAME NAME
+"1 tablespoon butter , softened",QUANTITY UNIT NAME O STATE
+2 teaspoons dried thyme,QUANTITY UNIT DF NAME
+1 -LRB- 0.25 ounce -RRB- package instant yeast,QUANTITY O QUANTITY UNIT O UNIT STATE NAME
+"3 stalks lemon grass , cut into 1 inch pieces",QUANTITY UNIT NAME NAME O STATE O O O O
+4 cups sliced carrot,QUANTITY UNIT STATE NAME
+1/2 teaspoon ground turmeric,QUANTITY UNIT STATE NAME
+21/2 tablespoons white sugar,QUANTITY UNIT NAME NAME
+"2/3 cup almonds , coarsely chopped",QUANTITY UNIT NAME O O STATE
+4 cups hominy,QUANTITY UNIT NAME
+4 slices Monterey Jack cheese,QUANTITY UNIT NAME NAME NAME
+"8 slices crisp cooked bacon , crumbled",QUANTITY UNIT O STATE NAME O STATE
+"5 cups apples - peeled , cored and chopped",QUANTITY UNIT NAME O STATE O STATE O STATE
+1 -LRB- 1 ounce -RRB- package fajita seasoning,QUANTITY O QUANTITY UNIT O UNIT NAME NAME
+1 fluid ounce red food coloring,QUANTITY UNIT UNIT NAME NAME NAME
+"8 ounces sliced pepperoni sausage , each slice cut in half",QUANTITY UNIT STATE NAME NAME O O O STATE O O
+ice,NAME
+"paprika , or to taste",NAME O O O O
+2 -LRB- 32 ounce -RRB- containers reduced sodium chicken broth,QUANTITY O QUANTITY UNIT O UNIT STATE STATE NAME NAME
+2 tablespoons pomegranate juice,QUANTITY UNIT NAME NAME
+3/4 cup fresh peas,QUANTITY UNIT DF NAME
+2 tablespoons warm milk -LRB- 110 to 115 degrees F -RRB-,QUANTITY UNIT TEMP NAME O O O O O O O
+2 teaspoons ground turmeric,QUANTITY UNIT STATE NAME
+15 lasagna noodles,QUANTITY NAME NAME
+2 tablespoons minced jalapeno pepper,QUANTITY UNIT STATE NAME NAME
+1 -LRB- 15 ounce -RRB- can coconut milk,QUANTITY O QUANTITY UNIT O UNIT NAME NAME
+"1 large leek , cleaned and thinly sliced",QUANTITY SIZE NAME O STATE O O STATE
+"8 slices bacon , cooked and crumbled",QUANTITY UNIT NAME O STATE O STATE
+2 teaspoons water,QUANTITY UNIT NAME
+11/2 teaspoons sugar,QUANTITY UNIT NAME
+2 cups heavy whipping cream,QUANTITY UNIT NAME NAME NAME
+2 -LRB- 3/4 pound -RRB- pork tenderloins,QUANTITY O QUANTITY UNIT O NAME NAME
+6 cups ice,QUANTITY UNIT NAME
+1 pinch ground allspice,QUANTITY UNIT STATE NAME
+1 cup raisins,QUANTITY UNIT NAME
+"3 onions , peeled",QUANTITY NAME O STATE
+1 -LRB- 8 ounce -RRB- package cream cheese,QUANTITY O QUANTITY UNIT O UNIT NAME NAME
+"3 English cucumbers , peeled and cubed",QUANTITY NAME NAME O STATE O STATE
+3/4 cup milk,QUANTITY UNIT NAME
+"3/4 cup chilled unsalted butter , cut into small pieces",QUANTITY UNIT STATE STATE NAME O STATE O SIZE O
+1/2 cup small diced green bell pepper,QUANTITY UNIT SIZE STATE NAME NAME NAME
+"2 -LRB- 6 ounce -RRB- cans black olives , drained and thinly sliced",QUANTITY O QUANTITY UNIT O UNIT NAME NAME O STATE O O STATE
+1 tablespoon orange zest -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+"1 green or red bell pepper , chopped",QUANTITY NAME O NAME NAME NAME O STATE
+1/2 cup chopped celery,QUANTITY UNIT STATE NAME
+1 -LRB- 12 ounce -RRB- package texturized vegetable protein -LRB- TVP -RRB-,QUANTITY O QUANTITY UNIT O UNIT NAME NAME NAME O O O
+1/4 cup diced carrot,QUANTITY UNIT STATE NAME
+1 cup butter,QUANTITY UNIT NAME
+1/2 cup tomato sauce,QUANTITY UNIT NAME NAME
+"1 fresh jalapeno pepper , seeded and minced",QUANTITY DF NAME NAME O STATE O STATE
+11/2 cups warm water -LRB- 110 degrees F/45 degrees C -RRB-,QUANTITY UNIT TEMP NAME O O O O O O O
+1/2 cup coconut milk,QUANTITY UNIT NAME NAME
+1 teaspoon dried rosemary,QUANTITY UNIT DF NAME
+20 wonton wrappers,QUANTITY NAME NAME
+1 -LRB- 16 ounce -RRB- can diced tomatoes with juice,QUANTITY O QUANTITY UNIT O UNIT STATE NAME O NAME
+"1 teaspoon cornstarch , mixed with equal parts water",QUANTITY UNIT NAME O O O O O O
+1 -LRB- 1.9 ounce -RRB- container aji nori furikake -LRB- seasoned seaweed and sesame rice topping -RRB-,QUANTITY O QUANTITY UNIT O UNIT NAME NAME O O O O O O O O O
+1 -LRB- 9 inch -RRB- sponge cake,QUANTITY O QUANTITY UNIT O NAME NAME
+"1 -LRB- 14.5 ounce -RRB- can black beans , rinsed and drained",QUANTITY O QUANTITY UNIT O UNIT NAME NAME O STATE O STATE
+1 cup long grain white rice,QUANTITY UNIT NAME NAME NAME NAME
+1/2 cup cold butter,QUANTITY UNIT TEMP NAME
+"1 large onion , grated",QUANTITY SIZE NAME O STATE
+"6 pounds small white onions , cleaned and scored",QUANTITY UNIT SIZE NAME NAME O STATE O STATE
+"2 red bell peppers , sliced",QUANTITY NAME NAME NAME O STATE
+"3 poblano peppers , seeded and diced",QUANTITY NAME NAME O STATE O STATE
+2 beef bouillon cubes,QUANTITY NAME NAME NAME
+7 -LRB- 28 ounce -RRB- cans crushed tomatoes,QUANTITY O QUANTITY UNIT O UNIT STATE NAME
+1 tablespoon salt and pepper to taste,QUANTITY UNIT NAME O NAME O O
+21/2 cups diced apple without peel,QUANTITY UNIT STATE NAME O O
+3 scoops vanilla ice cream,QUANTITY UNIT NAME NAME NAME
+11/4 cups cornmeal,QUANTITY UNIT NAME
+1/2 cup skim milk,QUANTITY UNIT O NAME
+"4 tomatoes , chopped",QUANTITY NAME O STATE
+2 tablespoons canola oil,QUANTITY UNIT NAME NAME
+"2 lemons , juiced",QUANTITY NAME O STATE
+"2 pounds skinless , boneless chicken breast halves - cut into bite-size pieces",QUANTITY UNIT STATE O STATE NAME NAME NAME O STATE O O O
+2 teaspoons baking soda,QUANTITY UNIT NAME NAME
+"1 green bell pepper , seeded and cut into strips",QUANTITY NAME NAME NAME O STATE O STATE O O
+1 -LRB- 16 ounce -RRB- package shredded mozzarella cheese,QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME
+2 teaspoons grated orange zest,QUANTITY UNIT STATE NAME NAME
+"4 cups bread flour , or as needed",QUANTITY UNIT NAME NAME O O O O
+1/4 cup hot pepper sauce,QUANTITY UNIT TEMP NAME NAME
+"1 tablespoon chopped fresh parsley , for garnish",QUANTITY UNIT STATE DF NAME O O O
+11/2 pounds salmon steaks,QUANTITY UNIT NAME NAME
+2 tablespoons chopped fresh rosemary,QUANTITY UNIT STATE DF NAME
+"2 cups chopped , roasted green chiles",QUANTITY UNIT STATE O STATE NAME NAME
+2/3 cup clarified butter,QUANTITY UNIT NAME NAME
+"16 leaves fresh mint , crushed",QUANTITY O DF NAME O STATE
+21/2 tablespoons garlic oil,QUANTITY UNIT NAME NAME
+"1 -LRB- 1/2 inch -RRB- piece fresh ginger , sliced",QUANTITY O QUANTITY UNIT O UNIT DF NAME O STATE
+2 tablespoons grated fresh ginger,QUANTITY UNIT STATE DF NAME
+1 dash onion powder,QUANTITY UNIT NAME NAME
+2 slices bread,QUANTITY UNIT NAME
+"1 pound mozzarella cheese , shredded",QUANTITY UNIT NAME NAME O STATE
+2 tablespoons prepared basil pesto,QUANTITY UNIT O NAME NAME
+2 tablespoons smoked paprika,QUANTITY UNIT STATE NAME
+1/2 teaspoon ground cayenne pepper,QUANTITY UNIT STATE NAME NAME
+5 saffron threads,QUANTITY NAME NAME
+11/2 teaspoons butter,QUANTITY UNIT NAME
+1 cup red wine,QUANTITY UNIT NAME NAME
+"1 avocado - peeled , seeded and sliced",QUANTITY NAME O STATE O STATE O STATE
+1/2 cup unsalted butter,QUANTITY UNIT STATE NAME
+"1 -LRB- 16 ounce -RRB- can cannellini beans , rinsed and drained",QUANTITY O QUANTITY UNIT O UNIT NAME NAME O STATE O STATE
+"1 small fresh jalapeno pepper , minced",QUANTITY SIZE DF NAME NAME O STATE
+2 teaspoons chopped fresh thyme,QUANTITY UNIT STATE DF NAME
+"1 carrot , grated",QUANTITY NAME O STATE
+"2 teaspoons Cajun seasoning , or to taste",QUANTITY UNIT NAME NAME O O O O
+"1 large carrot , grated",QUANTITY SIZE NAME O STATE
+1/2 cup chopped onion,QUANTITY UNIT STATE NAME
+1/2 teaspoon red pepper flakes -LRB- optional -RRB-,QUANTITY UNIT NAME NAME NAME O O O
+1/2 cup chopped fresh cilantro leaves,QUANTITY UNIT STATE DF NAME NAME
+3 cups apricot preserves,QUANTITY UNIT NAME NAME
+2 teaspoons grated lemon zest,QUANTITY UNIT STATE NAME NAME
+"1 -LRB- 1 pound -RRB- loaf processed cheese food , cut into thin slices",QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME O STATE O O O
+1/4 cup chopped fresh mint,QUANTITY UNIT STATE DF NAME
+3 tablespoons ground turmeric,QUANTITY UNIT STATE NAME
+11 cups all-purpose flour,QUANTITY UNIT NAME NAME
+"3 large cloves garlic , chopped",QUANTITY SIZE UNIT NAME O STATE
+"1 -LRB- 1 pound -RRB- package bacon , chopped",QUANTITY O QUANTITY UNIT O UNIT NAME O STATE
+"1 pound shark steaks , cut into chunks",QUANTITY UNIT NAME NAME O STATE O O
+"2 pounds large shrimp , peeled and deveined",QUANTITY UNIT SIZE NAME O STATE O STATE
+1 teaspoon ground paprika,QUANTITY UNIT STATE NAME
+1 cup dry unsweetened shredded coconut,QUANTITY UNIT DF STATE STATE NAME
+1/2 bunch cilantro,QUANTITY UNIT NAME
+"2 cups fiddlehead ferns , ends trimmed",QUANTITY UNIT NAME NAME O O STATE
+2 cups hot water,QUANTITY UNIT TEMP NAME
+1 tablespoon pepper,QUANTITY UNIT NAME
+"2 small tomatoes , diced",QUANTITY SIZE NAME O STATE
+"1/2 cup margarine , melted",QUANTITY UNIT NAME O STATE
+"1/2 -LRB- 8 ounce -RRB- package sharp Cheddar cheese , cut into strips",QUANTITY O QUANTITY UNIT O UNIT O NAME NAME O STATE O O
+1/4 cup distilled white vinegar,QUANTITY UNIT STATE NAME NAME
+2 teaspoons chopped cashews,QUANTITY UNIT STATE NAME
+2 teaspoons grated lemon peel,QUANTITY UNIT STATE NAME NAME
+"1 sheet nori -LRB- dried seaweed -RRB- , cut into thin strips -LRB- optional -RRB-",QUANTITY UNIT NAME O O O O O STATE O O O O O O
+1/3 cup miso paste,QUANTITY UNIT NAME NAME
+1/3 cup white vinegar,QUANTITY UNIT NAME NAME
+6 whole cloves,QUANTITY UNIT NAME
+2 romaine lettuce leaves,QUANTITY NAME NAME NAME
+"4 skinless , boneless turkey breast halves",QUANTITY STATE O STATE NAME NAME NAME
+"12 plums , pitted and halved",QUANTITY NAME O STATE O UNIT
+"toothpicks , soaked in water",NAME O STATE O NAME
+21/2 tablespoons red miso paste,QUANTITY UNIT NAME NAME NAME
+"1 teaspoon salt , or to taste",QUANTITY UNIT NAME O O O O
+"2 onions , minced",QUANTITY NAME O STATE
+1 tablespoon fish sauce,QUANTITY UNIT NAME NAME
+2 tablespoons cornstarch,QUANTITY UNIT NAME
+thinly sliced pepperoni,O STATE NAME
+5 tablespoons vegetable oil,QUANTITY UNIT NAME NAME
+1/4 teaspoon Sichuan peppercorns,QUANTITY UNIT NAME NAME
+2 tablespoons palm sugar,QUANTITY UNIT NAME NAME
+"4 carrots , peeled and grated",QUANTITY NAME O STATE O STATE
+3 tablespoons minced fresh ginger root,QUANTITY UNIT STATE DF NAME NAME
+11/2 teaspoons ground cinnamon,QUANTITY UNIT STATE NAME
+1/2 cup crumbled feta cheese,QUANTITY UNIT STATE NAME NAME
+21/2 teaspoons ground ginger,QUANTITY UNIT STATE NAME
+6 pods green cardamom,QUANTITY UNIT NAME NAME
+2 cups fat-free mayonnaise,QUANTITY UNIT STATE NAME
+"4 potatoes , peeled and sliced 1/2-inch thick",QUANTITY NAME O STATE O STATE O O
+6 sheets nori -LRB- dry seaweed -RRB-,QUANTITY UNIT NAME O DF O O
+"1 -LRB- 15 ounce -RRB- can kidney beans , rinsed and drained",QUANTITY O QUANTITY UNIT O UNIT NAME NAME O STATE O STATE
+2 large heads savoy cabbage,QUANTITY SIZE NAME NAME NAME
+"1/4 cup fresh oregano , chopped",QUANTITY UNIT DF NAME O STATE
+"2 -LRB- 15 ounce -RRB- cans black beans , drained and rinsed",QUANTITY O QUANTITY UNIT O UNIT NAME NAME O STATE O STATE
+2 teaspoons vegetable oil,QUANTITY UNIT NAME NAME
+1/4 teaspoon red pepper flakes,QUANTITY UNIT NAME NAME NAME
+3/4 cup sifted confectioners ' sugar,QUANTITY UNIT STATE NAME O NAME
+2 tablespoons tomato paste,QUANTITY UNIT NAME NAME
+2 teaspoons rice wine vinegar,QUANTITY UNIT NAME NAME NAME
+1 cup finely chopped red onion,QUANTITY UNIT O STATE NAME NAME
+1 -LRB- 10.75 ounce -RRB- can condensed cream of chicken soup,QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME NAME NAME
+1/2 cup chopped ham,QUANTITY UNIT STATE NAME
+2 tablespoons minced onion,QUANTITY UNIT STATE NAME
+1 -LRB- 10.75 ounce -RRB- can condensed cream of mushroom soup,QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME NAME NAME
+1 scoop vanilla bean ice cream -LRB- optional -RRB-,QUANTITY UNIT NAME NAME NAME NAME O O O
+1 tablespoon Cajun seasoning,QUANTITY UNIT NAME NAME
+1 teaspoon granulated sugar,QUANTITY UNIT STATE NAME
+1 teaspoon seasoned salt,QUANTITY UNIT STATE NAME
+1 -LRB- 15 ounce -RRB- can diced tomatoes,QUANTITY O QUANTITY UNIT O UNIT STATE NAME
+1 red bell pepper,QUANTITY NAME NAME NAME
+"2 onions , chopped",QUANTITY NAME O STATE
+1/4 cup honey,QUANTITY UNIT NAME
+"1 egg , slightly beaten",QUANTITY NAME O O STATE
+1/4 teaspoon white sugar,QUANTITY UNIT NAME NAME
+2 tablespoons pine nuts,QUANTITY UNIT NAME NAME
+2 teaspoons baking powder,QUANTITY UNIT NAME NAME
+2/3 cup butter,QUANTITY UNIT NAME
+1 cup real maple syrup,QUANTITY UNIT NAME NAME NAME
+1/4 cup blanched slivered almonds,QUANTITY UNIT STATE STATE NAME
+1/4 teaspoon anise seed,QUANTITY UNIT NAME NAME
+1 pinch white sugar,QUANTITY UNIT NAME NAME
+"1 head cauliflower , cut into florets",QUANTITY NAME NAME O STATE O O
+2 tablespoons Cajun seasoning,QUANTITY UNIT NAME NAME
+1/8 cup olive oil,QUANTITY UNIT NAME NAME
+"1 cup water , or as needed to cover",QUANTITY UNIT NAME O O O O O O
+1 cup chopped green onions,QUANTITY UNIT STATE NAME NAME
+"11/2 pounds sweet Italian sausage without fennel , casings removed",QUANTITY UNIT NAME NAME NAME O O O O O
+6 slices bacon,QUANTITY UNIT NAME
+10 fresh curry leaves -LRB- optional -RRB-,QUANTITY DF NAME NAME O O O
+1 tablespoon garlic oil,QUANTITY UNIT NAME NAME
+1 cup refried beans,QUANTITY UNIT O NAME
+1 cup chopped walnuts -LRB- optional -RRB-,QUANTITY UNIT STATE NAME O O O
+3 chipotle peppers in adobo sauce,QUANTITY NAME NAME O NAME NAME
+1/2 cup sunflower seeds,QUANTITY UNIT NAME NAME
+1 tablespoon garlic salt,QUANTITY UNIT NAME NAME
+1 tablespoon garlic powder,QUANTITY UNIT NAME NAME
+1/2 cup distilled white vinegar,QUANTITY UNIT STATE NAME NAME
+"1/2 bunch fresh cilantro , finely chopped",QUANTITY UNIT DF NAME O O STATE
+2 pinches ground black pepper,QUANTITY UNIT STATE NAME NAME
+3/4 cup crushed potato chips,QUANTITY UNIT STATE NAME NAME
+"1 pound beef flank steak , trimmed of fat",QUANTITY UNIT NAME NAME NAME O STATE O O
+1 cup whipped cream,QUANTITY UNIT NAME NAME
+"2 tablespoons extra virgin olive oil , divided",QUANTITY UNIT NAME NAME NAME NAME O STATE
+1 cup shredded Cheddar/Monterey Jack cheese blend,QUANTITY UNIT STATE NAME NAME NAME NAME
+1/2 teaspoon salt-free seasoning blend,QUANTITY UNIT STATE NAME NAME
+1/2 pound venison heart -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+1/4 -LRB- 1 ounce -RRB- package taco seasoning mix,QUANTITY O QUANTITY UNIT O UNIT NAME NAME NAME
+1 teaspoon light soy sauce,QUANTITY UNIT NAME NAME NAME
+2 cups chopped fresh spinach,QUANTITY UNIT STATE DF NAME
+"1/4 cup shredded Swiss cheese , or as needed -LRB- optional -RRB-",QUANTITY UNIT STATE NAME NAME O O O O O O O
+1 cup cold 2 % milk,QUANTITY UNIT TEMP STATE STATE NAME
+4 cups vegetable broth,QUANTITY UNIT NAME NAME
+1 -LRB- 7 ounce -RRB- package toasted flake coconut,QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME
+2 -LRB- 8 ounce -RRB- packages angel hair pasta,QUANTITY O QUANTITY UNIT O O NAME NAME NAME
+2 cups ketchup,QUANTITY UNIT NAME
+1 cup chopped onion,QUANTITY UNIT STATE NAME
+4 pounds onions,QUANTITY UNIT NAME
+"2 ripe tomatoes , diced",QUANTITY STATE NAME O STATE
+1/2 teaspoon garlic powder,QUANTITY UNIT NAME NAME
+1 cup corn oil,QUANTITY UNIT NAME NAME
+"1 teaspoon mayonnaise , or to taste",QUANTITY UNIT NAME O O O O
+"2 -LRB- 14 ounce -RRB- cans green enchilada sauce , divided",QUANTITY O QUANTITY UNIT O UNIT NAME NAME NAME O STATE
+"1 pod star anise , whole",QUANTITY NAME NAME NAME O STATE
+"1 pound Italian sausage , casings removed",QUANTITY UNIT NAME NAME O O O
+1 cup diced green chili peppers,QUANTITY UNIT STATE NAME NAME NAME
+3/4 cup blanched almonds,QUANTITY UNIT STATE NAME
+1 teaspoon white pepper,QUANTITY UNIT NAME NAME
+1 teaspoon vegetable oil,QUANTITY UNIT NAME NAME
+1/4 cup light soy sauce,QUANTITY UNIT NAME NAME NAME
+6 pounds pork back ribs,QUANTITY UNIT NAME NAME NAME
+2 cups cranberry sauce,QUANTITY UNIT NAME NAME
+"1 lemon , juiced , or to taste",QUANTITY NAME O STATE O O O O
+6 ounces shredded Swiss cheese,QUANTITY UNIT STATE NAME NAME
+11/2 teaspoons oyster sauce,QUANTITY UNIT NAME NAME
+"1 point from whole smoked brisket , cut into 1-inch squares",QUANTITY O O UNIT STATE NAME O STATE O O O
+1/3 cup red wine,QUANTITY UNIT NAME NAME
+3/4 teaspoon freshly ground black pepper,QUANTITY UNIT DF STATE NAME NAME
+1 cup chickpea flour -LRB- besan -RRB-,QUANTITY UNIT NAME NAME O O O
+1/2 teaspoon saffron,QUANTITY UNIT NAME
+1 cup sifted all-purpose flour,QUANTITY UNIT STATE NAME NAME
+21/4 cups white sugar,QUANTITY UNIT NAME NAME
+1 dash pepper sauce,QUANTITY UNIT NAME NAME
+1 tablespoon Italian seasoning,QUANTITY UNIT NAME NAME
+2 tablespoons honey,QUANTITY UNIT NAME
+3/4 cup dry bread crumbs,QUANTITY UNIT DF NAME NAME
+4 teaspoons dried mint,QUANTITY UNIT DF NAME
+"1 -LRB- 5 ounce -RRB- can sliced water chestnuts , drained",QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME O STATE
+2 tablespoons Italian salad dressing,QUANTITY UNIT NAME NAME NAME
+2 avocados,QUANTITY NAME
+2 tablespoons garlic paste,QUANTITY UNIT NAME NAME
+1/2 cup plain low-fat Greek yogurt,QUANTITY UNIT O STATE NAME NAME
+"2 apples - peeled , cored and finely chopped",QUANTITY NAME O STATE O STATE O O STATE
+4 cups lard for frying,QUANTITY UNIT NAME O O
+1 -LRB- 4 pound -RRB- lean raw corned beef brisket,QUANTITY O QUANTITY UNIT O STATE STATE STATE NAME NAME
+1 teaspoon yeast extract spread -LRB- optional -RRB-,QUANTITY UNIT NAME NAME NAME O O O
+"1 pound roma -LRB- plum -RRB- tomatoes , chopped",QUANTITY UNIT NAME O O O NAME O STATE
+1 tablespoon chicken bouillon granules,QUANTITY UNIT NAME NAME NAME
+8 slices pepperjack cheese,QUANTITY UNIT NAME NAME
+1 teaspoon ground dried chile pepper -LRB- optional -RRB-,QUANTITY UNIT STATE DF NAME NAME O O O
+1/2 teaspoon dried onion flakes,QUANTITY UNIT DF NAME NAME
+"1 bunch fresh parsley , chopped",QUANTITY UNIT DF NAME O STATE
+"3 eggs , or more to taste",QUANTITY NAME O O O O O
+2 tablespoons bread flour,QUANTITY UNIT NAME NAME
+"4 cups refried beans , divided",QUANTITY UNIT NAME NAME O STATE
+2 tablespoons water,QUANTITY UNIT NAME
+1 large egg,QUANTITY SIZE NAME
+Lime Wedge,NAME NAME
+"4 potatoes , quartered",QUANTITY NAME O STATE
+1 cup tahini -LRB- sesame-seed paste -RRB-,QUANTITY UNIT NAME O O O O
+2 teaspoons rice vinegar,QUANTITY UNIT NAME NAME
+1/3 cup frozen corn kernels,QUANTITY UNIT TEMP NAME NAME
+"2 cloves garlic , peeled",QUANTITY UNIT NAME O STATE
+1/4 teaspoon instant coffee granules,QUANTITY UNIT NAME NAME NAME
+1/4 cup dry bread crumbs,QUANTITY UNIT DF NAME NAME
+1 teaspoon ground coriander,QUANTITY UNIT STATE NAME
+"2 tomatoes , cubed",QUANTITY NAME O STATE
+1/2 teaspoon ground cumin -LRB- optional -RRB-,QUANTITY UNIT STATE NAME O O O
+1/4 cup lemon juice,QUANTITY UNIT NAME NAME
+"2 -LRB- 6.5 ounce -RRB- cans chopped clams , drained",QUANTITY O QUANTITY UNIT O UNIT STATE NAME O STATE
+"1 cup eggs , beaten",QUANTITY UNIT NAME O STATE
+1 tablespoon flax seeds,QUANTITY UNIT NAME NAME
+1/2 cup peanut butter,QUANTITY UNIT NAME NAME
+2 ounces bittersweet chocolate,QUANTITY UNIT NAME NAME
+2 teaspoons ground black pepper,QUANTITY UNIT STATE NAME NAME
+"1 pound mild Italian turkey sausage , casings removed",QUANTITY UNIT NAME NAME NAME NAME O O O
+1 teaspoon prepared mustard,QUANTITY UNIT O NAME
+"3/4 pound boneless , skinless chicken breasts",QUANTITY UNIT STATE O STATE NAME NAME
+1/2 tablespoon miso paste,QUANTITY UNIT NAME NAME
+2 cups cooked diced chicken,QUANTITY UNIT STATE STATE NAME
+1 tablespoon minced lemon grass,QUANTITY UNIT STATE NAME NAME
+"2 tablespoons green bell pepper , chopped",QUANTITY UNIT NAME NAME NAME O STATE
+"1/2 yellow onion , sliced",QUANTITY NAME NAME O STATE
+1 tablespoon Asian -LRB- toasted -RRB- sesame oil,QUANTITY UNIT NAME O STATE O NAME NAME
+"1 -LRB- 1 pound -RRB- loaf Italian bread , cut into 1-inch cubes",QUANTITY O QUANTITY UNIT O UNIT NAME NAME O STATE O O O
+"3 tablespoons softened butter , or as needed",QUANTITY UNIT STATE NAME O O O O
+11/2 cups milk,QUANTITY UNIT NAME
+1/4 cup vinegar,QUANTITY UNIT NAME
+1 -LRB- 16 ounce -RRB- bottle Catalina salad dressing,QUANTITY O QUANTITY UNIT O UNIT NAME NAME NAME
+12 slices pancetta -LRB- Italian unsmoked cured bacon -RRB-,QUANTITY UNIT NAME O O O O O O
+"1 sweet Italian pepper , chopped",QUANTITY NAME NAME NAME O STATE
+1/2 cup crumbled feta cheese -LRB- can use reduced-fat -RRB-,QUANTITY UNIT STATE NAME NAME O O O O O
+1/4 cup chopped celery,QUANTITY UNIT STATE NAME
+"4 cloves garlic , chopped",QUANTITY UNIT NAME O STATE
+"1 apple - peeled , cored and sliced",QUANTITY NAME O STATE O STATE O STATE
+"1 bunch green onions , chopped",QUANTITY UNIT NAME NAME O STATE
+"1 small carrot , grated",QUANTITY SIZE NAME O STATE
+4 cups peeled and diced pumpkin,QUANTITY UNIT STATE O STATE NAME
+1 teaspoon lemon pepper,QUANTITY UNIT NAME NAME
+"5 slices bacon , chopped",QUANTITY UNIT NAME O STATE
+"4 medium fresh jalapeno peppers , seeded , deveined , and finely minced",QUANTITY SIZE DF NAME NAME O STATE O STATE O O O STATE
+1 -LRB- 4.5 ounce -RRB- can diced green chile peppers,QUANTITY O QUANTITY UNIT O UNIT STATE NAME NAME NAME
+"1/2 small red onion , chopped",QUANTITY SIZE NAME NAME O STATE
+1 dash ground black pepper,QUANTITY UNIT STATE NAME NAME
+1 pinch ground nutmeg,QUANTITY UNIT STATE NAME
+"1 -LRB- 2 inch -RRB- piece fresh ginger root , peeled and sliced",QUANTITY O QUANTITY UNIT O UNIT DF NAME NAME O STATE O STATE
+1/4 cup dry white wine,QUANTITY UNIT DF NAME NAME
+1/2 cup uncooked spinach pasta,QUANTITY UNIT STATE NAME NAME
+"1/2 cup olive oil , divided",QUANTITY UNIT NAME NAME O STATE
+"1 serrano chile pepper , sliced , or more to taste",QUANTITY NAME NAME NAME O STATE O O O O O
+1 cup chopped fennel bulb,QUANTITY UNIT STATE NAME NAME
+"1 tablespoon chopped fresh cilantro , or more to taste",QUANTITY UNIT STATE DF NAME O O O O O
+3 tablespoons ketchup,QUANTITY UNIT NAME
+"3/4 cup cool water , divided",QUANTITY UNIT TEMP NAME O STATE
+4 slices ripe tomato,QUANTITY UNIT STATE NAME
+21/2 cups dry lentils,QUANTITY UNIT DF NAME
+1/4 cup soy sauce,QUANTITY UNIT NAME NAME
+2 tablespoons dried oregano,QUANTITY UNIT DF NAME
+"3/4 cup tomatoes , chopped",QUANTITY UNIT NAME O STATE
+1/2 cup blueberries,QUANTITY UNIT NAME
+8 flour tortillas,QUANTITY NAME NAME
+freshly ground black pepper to taste,DF STATE NAME NAME O O
+sour cream,STATE NAME
+"1 cup panko bread crumbs , or as needed",QUANTITY UNIT NAME NAME NAME O O O O
+1 hot chile pepper,QUANTITY TEMP NAME NAME
+3 tablespoons garlic powder,QUANTITY UNIT NAME NAME
+"2 tablespoons crumbled feta cheese , divided",QUANTITY UNIT STATE NAME NAME O STATE
+11/2 cups butter,QUANTITY UNIT NAME
+"3 carrots , sliced",QUANTITY NAME O STATE
+"1/2 cup Parmigiano Reggiano cheese , shaved",QUANTITY UNIT NAME NAME NAME O STATE
+4 teaspoons Dijon mustard,QUANTITY UNIT NAME NAME
+1/2 cup pine nuts,QUANTITY UNIT NAME NAME
+24 spot prawns,QUANTITY NAME NAME
+1 tablespoon chopped fresh mint,QUANTITY UNIT STATE DF NAME
+1/3 cup extra virgin olive oil,QUANTITY UNIT NAME NAME NAME NAME
+soy sauce,NAME NAME
+10 leaves lettuce,QUANTITY NAME NAME
+"1 pound salt pork , diced",QUANTITY UNIT NAME NAME O STATE
+"1 -LRB- 15 ounce -RRB- can cannellini -LRB- white kidney -RRB- beans , drained",QUANTITY O QUANTITY UNIT O UNIT NAME O NAME NAME O NAME O STATE
+13/4 cups water,QUANTITY UNIT NAME
+"5 pounds American cheese , cut into pieces",QUANTITY UNIT NAME NAME O STATE O O
+"4 green onions , thinly sliced",QUANTITY NAME NAME O O STATE
+"1 jalapeno pepper , minced",QUANTITY NAME NAME O STATE
+21/2 tablespoons prepared horseradish,QUANTITY UNIT NAME NAME
+"2 tablespoons red wine , or as needed",QUANTITY UNIT NAME NAME O O O O
+11/2 tablespoons butter,QUANTITY UNIT NAME
+"3/4 cup macadamia nut oil , or more as needed",QUANTITY UNIT NAME NAME NAME O O O O O
+"1 teaspoon red wine vinegar , or more to taste",QUANTITY UNIT NAME NAME NAME O O O O O
+1/2 teaspoon ground red pepper,QUANTITY UNIT STATE NAME NAME
+1 tablespoon chopped fresh rosemary,QUANTITY UNIT STATE DF NAME
+11/2 tablespoons dried oregano,QUANTITY UNIT DF NAME
+olive oil,NAME NAME
+"6 tomatoes - peeled , seeded , and chopped",QUANTITY NAME O STATE O STATE O O STATE
+1/2 teaspoon cayenne powder -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+1 -LRB- 8 ounce -RRB- container pineapple cream cheese spread,QUANTITY O QUANTITY UNIT O UNIT NAME NAME NAME NAME
+3 tablespoons tomato paste,QUANTITY UNIT NAME NAME
+"1 lemon , cut into wedges",QUANTITY NAME O STATE O O
+11/2 cups canned pineapple chunks,QUANTITY UNIT STATE NAME NAME
+"4 burrito-size tortillas , or as needed",QUANTITY NAME NAME O O O O
+"1/4 cup sour cream , or to taste",QUANTITY UNIT STATE NAME O O O O
+freshly grated Parmesan cheese,DF STATE NAME NAME
+1/4 cup slivered kalamata olives,QUANTITY UNIT STATE NAME NAME
+1 teaspoon Worcestershire sauce,QUANTITY UNIT NAME NAME
+"1 lemon , juiced",QUANTITY NAME O STATE
+"2 tablespoons margarine , softened",QUANTITY UNIT NAME O STATE
+4 salmon fillets,QUANTITY NAME NAME
+"2 zucchinis , sliced",QUANTITY NAME O STATE
+"1/4 cup chopped cilantro , or to taste",QUANTITY UNIT STATE NAME O O O O
+4 ounces shredded mozzarella cheese,QUANTITY UNIT STATE NAME NAME
+2 teaspoons chopped fresh dill,QUANTITY UNIT STATE DF NAME
+1/2 teaspoon baking powder,QUANTITY UNIT NAME NAME
+1 -LRB- 32 ounce -RRB- container plain yogurt,QUANTITY O QUANTITY UNIT O UNIT NAME NAME
+"1/4 pound bacon , chopped",QUANTITY UNIT NAME O STATE
+3/4 cup confectioners ' sugar,QUANTITY UNIT NAME O NAME
+1/2 cup chopped green onions,QUANTITY UNIT STATE NAME NAME
+"2 teaspoons chili powder , divided",QUANTITY UNIT NAME NAME O STATE
+"1 acorn squash , halved and seeded",QUANTITY NAME NAME O UNIT O STATE
+"3 tablespoons chopped fresh cilantro , divided",QUANTITY UNIT STATE DF NAME O STATE
+1 teaspoon paprika,QUANTITY UNIT NAME
+1/2 teaspoon black pepper,QUANTITY UNIT NAME NAME
+1 -LRB- 5 pound -RRB- boneless pork loin roast,QUANTITY O QUANTITY UNIT O STATE NAME NAME NAME
+"1 -LRB- 2.25 ounce -RRB- can sliced black olives , drained",QUANTITY O QUANTITY UNIT O UNIT STATE NAME O O STATE
+1/4 cup brown sugar,QUANTITY UNIT NAME NAME
+"1 large head cabbage , shredded",QUANTITY SIZE NAME NAME O STATE
+7 ounces 1/4-inch thick rice stick noodles,QUANTITY UNIT O NAME NAME NAME NAME
+1 pinch red pepper flakes,QUANTITY UNIT NAME NAME NAME
+1 -LRB- 6.5 ounce -RRB- can minced clams,QUANTITY O QUANTITY UNIT O UNIT STATE NAME
+"1/3 cup unsalted butter , softened",QUANTITY UNIT STATE NAME O STATE
+2 teaspoons soy sauce,QUANTITY UNIT NAME NAME
+1 pound red seedless grapes,QUANTITY UNIT NAME STATE NAME
+11/2 cups grated Parmesan cheese,QUANTITY UNIT STATE NAME NAME
+"10 -LRB- 6 inch -RRB- corn tortillas , quartered",QUANTITY O QUANTITY UNIT O NAME NAME O STATE
+"1 pound beef tenderloin , cubed",QUANTITY UNIT NAME NAME O STATE
+1 pinch sea salt,QUANTITY UNIT NAME NAME
+"1 onion , finely chopped",QUANTITY NAME O O STATE
+"5 cloves garlic , pressed",QUANTITY O NAME O O
+1/4 cup minced fresh basil,QUANTITY UNIT STATE DF NAME
+1/2 -LRB- 750 milliliter -RRB- bottle dry white wine,QUANTITY O QUANTITY UNIT O UNIT DF NAME NAME
+1 -LRB- 11 ounce -RRB- can Mexican-style corn,QUANTITY O QUANTITY UNIT O UNIT NAME NAME
+11/8 cups rolled oats,QUANTITY UNIT NAME NAME
+5 tablespoons double concentrated tomato paste,QUANTITY UNIT STATE STATE NAME NAME
+"1 pound potatoes , peeled and diced",QUANTITY UNIT NAME O STATE O STATE
+1/2 cup minced fresh mint leaves,QUANTITY UNIT STATE DF NAME O
+"4 green onions , sliced",QUANTITY NAME NAME O STATE
+"2 green onions , sliced thinly",QUANTITY NAME NAME O STATE O
+4 tablespoons rum,QUANTITY UNIT NAME
+"1 pound Monterey Jack cheese , grated",QUANTITY UNIT NAME NAME NAME O STATE
+2 teaspoons lemon juice,QUANTITY UNIT NAME NAME
+2 teaspoons margarine,QUANTITY UNIT NAME
+13/4 cups white sugar,QUANTITY UNIT NAME NAME
+2 tablespoons sake,QUANTITY UNIT NAME
+8 ounces lean ground beef,QUANTITY UNIT STATE STATE NAME
+2 cups broth from cooked oxtails,QUANTITY UNIT NAME O STATE NAME
+"1 large green bell pepper , sliced into strips",QUANTITY SIZE NAME NAME NAME O STATE O O
+1 cup unsalted butter,QUANTITY UNIT STATE NAME
+2/3 cup uncooked white rice,QUANTITY UNIT STATE NAME NAME
+1 tablespoon soy sauce -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+"2 cloves garlic , peeled and coarsely chopped",QUANTITY UNIT NAME O STATE O O STATE
+1/2 cup Amarula liqueur,QUANTITY UNIT NAME NAME
+2 tablespoons Kraft 100 % Parmesan Shredded Cheese,QUANTITY UNIT O STATE STATE NAME STATE NAME
+1 cup finely ground cornmeal,QUANTITY UNIT O STATE NAME
+"1/4 cup butter , softened",QUANTITY UNIT NAME O STATE
+2 cups sifted all-purpose flour,QUANTITY UNIT STATE NAME NAME
+1 tablespoon drained capers,QUANTITY UNIT STATE NAME
+1 pint part-skim ricotta cheese,QUANTITY NAME STATE NAME NAME
+5 cups water,QUANTITY UNIT NAME
+1/4 cup chopped fresh chives,QUANTITY UNIT STATE DF NAME
+"1/2 cup fresh bean sprouts , or to taste -LRB- optional -RRB-",QUANTITY UNIT DF NAME NAME O O O O O O O
+"4 eggs , whites and yolks separated",QUANTITY NAME O NAME O NAME STATE
+"1 sheet frozen puff pastry , thawed",QUANTITY UNIT TEMP NAME NAME O STATE
+"6 ounces black olives , sliced",QUANTITY UNIT NAME NAME O STATE
+"6 teaspoons of fresh mint , chopped",QUANTITY UNIT O DF NAME O STATE
+"3 onions , chopped",QUANTITY NAME O STATE
+796 ml crushed tomatoes,QUANTITY UNIT STATE NAME
+3 tablespoons chopped of fresh mint -LRB- optional -RRB-,QUANTITY UNIT STATE O DF NAME O O O
+11/4 cups peeled chopped apples,QUANTITY UNIT STATE STATE NAME
+2 tablespoons chopped coriander,QUANTITY UNIT STATE NAME
+1/4 cup frozen lima beans,QUANTITY UNIT TEMP NAME NAME
+"1 large jalapeno , diced with seeds removed",QUANTITY SIZE NAME O STATE O O O
+400 g drained chickpeas,QUANTITY UNIT STATE NAME
+"1/2 red onion , sliced in strips",QUANTITY NAME NAME O STATE O O
+"23/4 cups chicken stock , divided",QUANTITY UNIT NAME NAME O STATE
+1/4 cup sliced ripe olives,QUANTITY UNIT STATE STATE NAME
+"10 strawberries , sliced",QUANTITY NAME O STATE
+"6 plum tomatoes , sliced into 1/8-inch thick rounds",QUANTITY NAME NAME O STATE O O O O
+"2 tablespoons fresh flat-leaf Italian parsley , chopped -LRB- NOT dried -RRB-",QUANTITY UNIT DF O NAME NAME O STATE O O DF O
+"4 small boiling potatoes , peeled diced into 1/4 inch pieces",QUANTITY SIZE STATE NAME O STATE STATE O O O O
+1/3 cup sliced almonds -LRB- sliced -RRB-,QUANTITY UNIT STATE NAME O STATE O
+"11/4 cups carrots , sliced",QUANTITY UNIT NAME O STATE
+4 dried Chinese mushrooms,QUANTITY DF NAME NAME
+7 ounces cooked and peeled whole chestnuts,QUANTITY UNIT STATE O STATE O NAME
+"850 g tomatoes , chopped -LRB- cans -RRB-",QUANTITY UNIT NAME O STATE O UNIT O
+2 cups thickly sliced carrots,QUANTITY UNIT O STATE NAME
+4 tablespoons drained capers,QUANTITY UNIT STATE NAME
+"2-3 cloves garlic , chopped",QUANTITY UNIT NAME O STATE
+"2 ounces prosciutto -LRB- optional -RRB- or 4 slices bacon , chopped -LRB- optional -RRB-",QUANTITY UNIT NAME O O O O O O O O O O O O
+2 tablespoons peeled and finely chopped cucumbers,QUANTITY UNIT STATE O O STATE NAME
+11/2 - 2 cups cooked rice,QUANTITY O O UNIT STATE NAME
+"sliced avocado , for garnish -LRB- optional -RRB-",STATE NAME O O O O O O
+"4 ounces cooked shrimp , coarsley chopped",QUANTITY UNIT STATE NAME O O STATE
+"4 cups canned beef broth , diluted with 1/2 cup water",QUANTITY UNIT STATE NAME NAME O O O O O O
+"4 bunches green onions , sliced",QUANTITY UNIT NAME NAME O STATE
+"10 ounces mushrooms , chopped into 1/2-inch dice",QUANTITY UNIT NAME O STATE O O O
+2 tablespoons chopped fresh coriander,QUANTITY UNIT STATE DF NAME
+"4 cups yellow onions , chopped",QUANTITY UNIT NAME NAME O STATE
+"2 cups flour , sifted",QUANTITY UNIT NAME O STATE
+"2 tablespoons chopped fresh thyme , plus",QUANTITY UNIT STATE DF NAME O O
+"1 cup Tang orange crystals , made according to pack instructions",QUANTITY UNIT NAME NAME O O O O O O O
+"1 small onion , sliced -LRB- optional -RRB-",QUANTITY SIZE NAME O STATE O O O
+"2 cups sweetened flaked coconut , toasted divided",QUANTITY UNIT STATE STATE NAME O STATE STATE
+"2 lbs potatoes , peeled and cut in uniform pieces",QUANTITY UNIT NAME O STATE O STATE O O UNIT
+"5 tablespoons butter , melted",QUANTITY UNIT NAME O STATE
+"3 carrots , chopped",QUANTITY NAME O STATE
+"3 tablespoons fresh parsley , chopped",QUANTITY UNIT DF NAME O STATE
+3 cups sliced mushrooms,QUANTITY UNIT STATE NAME
+"11/4 cups extra virgin olive oil , divided",QUANTITY UNIT NAME NAME NAME NAME O STATE
+"2 tablespoons chopped cilantro , plus",QUANTITY UNIT STATE NAME O O
+2 ounces desiccated coconut,QUANTITY UNIT STATE NAME
+3 slices smoked bacon or 3 slices parma ham,QUANTITY UNIT STATE NAME O O O O O
+"1 jalapeno , chopped -LRB- optional -RRB-",QUANTITY NAME O STATE O O O
+"2 quarters quick preserved limes , finely chopped -LRB- ingredients for this below -RRB-",QUANTITY UNIT O O NAME O O STATE O O O O O O
+"6 ounces spinach leaves , chopped",QUANTITY UNIT NAME NAME O STATE
+"40 g fresh parsley , chopped",QUANTITY UNIT DF NAME O STATE
+"4 onions , chopped",QUANTITY NAME O STATE
+"3 ounces butter , chilled and cut into cubes",QUANTITY UNIT NAME O STATE O STATE O NAME
+"2 tablespoons coriander seeds , crushed",QUANTITY UNIT NAME NAME O STATE
+"2 cups fresh spinach , chopped",QUANTITY UNIT DF NAME O STATE
+"2 green chilies , chopped to 1/2 '' pieces",QUANTITY NAME NAME O STATE O O O O
+"12 ounces pasta , such as penne or 12 ounces farfalle pasta , cooked al dente",QUANTITY UNIT NAME O O O O O O O O O O O O O
+"2-3 cups diced cooked chicken -LRB- I use deli chicken , boned and diced -RRB-",QUANTITY UNIT STATE STATE NAME O O O O O O STATE O STATE O
+"2 cups cherry tomatoes , halved",QUANTITY UNIT NAME NAME O STATE
+2 tablespoons finely chopped lemons -LRB- some rind -RRB-,QUANTITY UNIT O STATE O O O NAME O
+1/8 teaspoon sugar,QUANTITY UNIT NAME
+1 pinch mustard,QUANTITY UNIT NAME
+1/2 teaspoon . salt,QUANTITY UNIT O NAME
+1 - 11/2 cup hot chicken stock,QUANTITY O O UNIT TEMP NAME NAME
+100 ml milk,QUANTITY UNIT NAME
+1 - 11/4 lb beef eye round,QUANTITY O QUANTITY UNIT NAME NAME NAME
+1 tablespoon sake,QUANTITY UNIT NAME
+1 lb penne,QUANTITY UNIT NAME
+60 g flour,QUANTITY UNIT NAME
+1 tablespoon scallion,QUANTITY UNIT NAME
+1-2 slice turkey,QUANTITY UNIT NAME
+1/4 teaspoon parsley,QUANTITY UNIT NAME
+1 clove,QUANTITY NAME
+1 beefsteak tomato,QUANTITY NAME NAME
+1/8 teaspoon oregano,QUANTITY UNIT NAME
+1/3 cup sake,QUANTITY UNIT NAME
+1-2 teaspoon parsley,QUANTITY UNIT NAME
+1/2 onion,QUANTITY NAME
+1 pinch turmeric,QUANTITY UNIT NAME
+65 g butter,QUANTITY UNIT NAME
+"2-3 avocados , cubed",QUANTITY NAME O STATE
+1/2 - 1 teaspoon salt,QUANTITY O O UNIT NAME
+1 teaspoon mayonnaise,QUANTITY UNIT NAME
+1 bunch broccoli,QUANTITY UNIT NAME
+600 ml milk,QUANTITY UNIT NAME
+1/16 teaspoon salt,QUANTITY UNIT NAME
+1/4 ounce yeast,QUANTITY UNIT NAME
+1 cup rum,QUANTITY UNIT NAME
+1/2 cup pepper,QUANTITY UNIT NAME
+250 ml coconut,QUANTITY UNIT NAME
+1-2 tablespoon cornstarch,QUANTITY UNIT NAME
+1/4 lb margarine,QUANTITY UNIT NAME
+20 g cheese,QUANTITY UNIT NAME
+1/2 cup soymilk,QUANTITY UNIT NAME
+200 ml milk,QUANTITY UNIT NAME
+430 g water,QUANTITY UNIT NAME
+1/3 cup vinegar,QUANTITY UNIT NAME
+600 g flour,QUANTITY UNIT NAME
+6 g salt,QUANTITY UNIT NAME
+1/4 teaspoon yeast,QUANTITY UNIT NAME
+3 zucchini,QUANTITY NAME
+2 pork tenderloin,QUANTITY NAME NAME
+1 tablespoon onion,QUANTITY UNIT NAME
+1 cup cornstarch,QUANTITY UNIT NAME
+1 lb clam,QUANTITY UNIT NAME
+2/3 cup milk,QUANTITY UNIT NAME
+2/3 cup catsup,QUANTITY UNIT NAME
+1/4 teaspoon peppercorn,QUANTITY UNIT NAME
+475 ml water,QUANTITY UNIT NAME
+1 tablespoon marjoram,QUANTITY UNIT NAME
+2 zucchini,QUANTITY NAME
+1/3 cup lard,QUANTITY UNIT NAME
+1/2 tablespoon cornstarch,QUANTITY UNIT NAME
+1/2 cup broccoli,QUANTITY UNIT NAME
+1 1 tablespoon canola oil or 1 tablespoon saffola oil,QUANTITY QUANTITY UNIT NAME NAME O O O O O
+"1 squirrel , cut up",QUANTITY O O STATE O
+11/2 sugar,QUANTITY NAME
+45 g butter,QUANTITY UNIT NAME
+3/4 cup polenta,QUANTITY UNIT NAME
+1 cup milo,QUANTITY UNIT NAME
+1/8 cup skim milk,QUANTITY UNIT NAME NAME
+1/4 cup vodka,QUANTITY UNIT NAME
+300 g sugar,QUANTITY UNIT NAME
+1/4 lb capicola,QUANTITY UNIT NAME
+1 gallon water,QUANTITY UNIT NAME
+1/4 cup cornmeal,QUANTITY UNIT NAME
+1/4 teaspoon cumin,QUANTITY UNIT NAME
+30 ml cognac,QUANTITY UNIT NAME
+1 sprig rosemary,QUANTITY UNIT NAME
+1 - 11/2 teaspoon oregano -LRB- preferably Mediterranean -RRB-,QUANTITY O O UNIT NAME O O O O
+1 scallion,QUANTITY NAME
+1 lime wedge,QUANTITY NAME NAME
+1 pint ale,QUANTITY UNIT NAME
+1/3 cup mayonnaise,QUANTITY UNIT NAME
+3/4 teaspoon turmeric,QUANTITY UNIT NAME
+1/8 teaspoon allspice,QUANTITY UNIT NAME
+1/4 cup ketchup,QUANTITY UNIT NAME
+500 ml buttermilk,QUANTITY UNIT NAME
+1 leek,QUANTITY NAME
+1 cup ice,QUANTITY UNIT NAME
+1/2 tablespoon oregano,QUANTITY UNIT NAME
+1 cup catsup,QUANTITY UNIT NAME
+1/3 cup Licor 43,QUANTITY UNIT NAME O
+1 tablespoon tequila,QUANTITY UNIT NAME
+1 tablespoon peppercorn,QUANTITY UNIT NAME
+120 g cream,QUANTITY UNIT NAME
+3/4 tablespoon flour,QUANTITY UNIT NAME
+1 - 11/2 lb beef flank steak,QUANTITY O O UNIT NAME NAME NAME
+1/4 bunch cilantro,QUANTITY UNIT NAME
+2/3 glass champagne,QUANTITY UNIT NAME
+1/2 ounce butter,QUANTITY UNIT NAME
+1 quart oil,QUANTITY UNIT NAME
+90 g cheese,QUANTITY UNIT NAME
+1 lb cubed lamb,QUANTITY UNIT STATE NAME
+1 - 11/2 lb boneless chicken breast,QUANTITY O O UNIT STATE NAME NAME
+50 ml water,QUANTITY UNIT NAME
+250 ml water,QUANTITY UNIT NAME
+3/4 lb fettuccine,QUANTITY UNIT NAME
+1 pint half-and-half,QUANTITY UNIT NAME
+1/8 cup water,QUANTITY UNIT NAME
+3/4 lb penne,QUANTITY UNIT NAME
+1 teaspoon cilantro,QUANTITY UNIT NAME
+1-2 teaspoon salt,QUANTITY UNIT NAME
+15 g spinach,QUANTITY UNIT NAME
+1/4 cup brandy,QUANTITY UNIT NAME
+250 g mascarpone,QUANTITY UNIT NAME
+1 pomegranate,QUANTITY NAME
+1/3 teaspoon turmeric,QUANTITY UNIT NAME
+1/4 cup sultana,QUANTITY UNIT NAME
+1 pickle,QUANTITY NAME
+1/4 - 1/2 cup soy sauce,QUANTITY O O UNIT NAME NAME
+2 cm ginger,QUANTITY UNIT NAME
+1/4 cup skim milk,QUANTITY UNIT NAME NAME
+1/4 cup mirin,QUANTITY UNIT NAME
+1/4 cup salt,QUANTITY UNIT NAME
+1/2 liter water,QUANTITY UNIT NAME
+1 teaspoon peppercorn,QUANTITY UNIT NAME
+1/3 cup cocoa,QUANTITY UNIT NAME
+1/3 1/3 cup apple juice or 1/3 cup orange juice,QUANTITY QUANTITY UNIT NAME NAME O O O O O
+1/4 - 1/2 teaspoon oregano,QUANTITY O O UNIT NAME
+1 lb beef,QUANTITY UNIT NAME
+1/2 cup popcorn,QUANTITY UNIT NAME
+5 ml turmeric,QUANTITY UNIT NAME
+1 head cauliflower,QUANTITY UNIT NAME
+1/2 teaspoon butter,QUANTITY UNIT NAME
+100 ml beer,QUANTITY UNIT NAME
+1 tablespoon kudzu,QUANTITY UNIT NAME
+1 teaspoon sage,QUANTITY UNIT NAME
+1/4 cup cognac,QUANTITY UNIT NAME
+180 g flour,QUANTITY UNIT NAME
+1 lb linguine,QUANTITY UNIT NAME
+1 cup spinach,QUANTITY UNIT NAME
+1 tablespoon curry,QUANTITY UNIT NAME
+"1 medium red bell pepper , cut into 1 inch pieces - 1 cup",QUANTITY SIZE NAME NAME NAME O STATE O O O O O O O
+1 garlic,QUANTITY NAME
+1 tablespoon mayonnaise,QUANTITY UNIT NAME
+1 tablespoon rosemary,QUANTITY UNIT NAME
+2 tablespoons / 30 ml canola oil,QUANTITY UNIT O O O NAME NAME
+1 dash thyme,QUANTITY UNIT NAME
+1 lb hamburger,QUANTITY UNIT NAME
+1/2 tablespoon paprika,QUANTITY UNIT NAME
+1/3 cup sultana,QUANTITY UNIT NAME
+60 ml sugar,QUANTITY UNIT NAME
+1/4 ounce tarragon,QUANTITY UNIT NAME
+1 dash oregano,QUANTITY UNIT NAME
+200 g sugar,QUANTITY UNIT NAME
+1/4 cup vinegar,QUANTITY UNIT NAME
+"4 medium potatoes , cubed",QUANTITY SIZE NAME O STATE
+1/2 lime,QUANTITY NAME
+1 quart milk,QUANTITY UNIT NAME
+1/4 - 1/3 cup parmesan cheese,QUANTITY O O UNIT NAME NAME
+1/4 teaspoon coriander,QUANTITY UNIT NAME
+1/8 cup vinegar,QUANTITY UNIT NAME
+1 beef brisket,QUANTITY NAME NAME
+1 leaf lettuce,QUANTITY NAME NAME
+1/2 - 3/4 cup water,QUANTITY O O UNIT NAME
+8 g pepper,QUANTITY UNIT NAME
+"1-2 1-2 teaspoon tapioca flour or 1-2 teaspoon cornstarch , with",QUANTITY QUANTITY UNIT NAME NAME O O O O O O
+1/2 cup watercress,QUANTITY UNIT NAME
+1 cup half-and-half,QUANTITY UNIT NAME
+"2 chorizo sausages , cubed",QUANTITY NAME NAME O STATE
+1 lb onion,QUANTITY UNIT NAME
+1 spaghetti squash,QUANTITY NAME NAME
+1 teaspoon gluten,QUANTITY UNIT NAME
+1 lb pork,QUANTITY UNIT NAME
+1/4 tablespoon cinnamon,QUANTITY UNIT NAME
+1 ounce whiskey,QUANTITY UNIT NAME
+1 firm tofu,QUANTITY NAME NAME
+1/2 quart ketchup,QUANTITY UNIT NAME
+1 1 tablespoon flax seed meal or 1 tablespoon coconut flour,QUANTITY QUANTITY UNIT NAME NAME O O O O O O
+1 ounce sugar,QUANTITY UNIT NAME
+1/4 cup tahini,QUANTITY UNIT NAME
+1/4 cup half-and-half,QUANTITY UNIT NAME
+1 cup vinaigrette,QUANTITY UNIT NAME
+1/3 - 1/2 cup sugar,QUANTITY O O UNIT NAME
+1 teaspoon berbere,QUANTITY UNIT NAME
+4 zucchini,QUANTITY NAME
+"2 chicken breasts , cubed",QUANTITY NAME NAME O STATE
+1 dash basil,QUANTITY UNIT NAME
+1 cup lard,QUANTITY UNIT NAME
+500 g beef,QUANTITY UNIT NAME
+200 g jaggery,QUANTITY UNIT NAME
+1 flatout wrap,QUANTITY O NAME
+200 g gorgonzola,QUANTITY UNIT NAME
+1/16 teaspoon pepper,QUANTITY UNIT NAME
+500 ml milk,QUANTITY UNIT NAME
+1/4 cup wine,QUANTITY UNIT NAME
+1/2 - 1 teaspoon thyme,QUANTITY O O UNIT NAME
+1 cup ketchup,QUANTITY UNIT NAME
+1 ounce tequila,QUANTITY UNIT NAME
+1 teaspoon horseradish,QUANTITY UNIT NAME
+1/2 teaspoon rosemary,QUANTITY UNIT NAME
+1 cup cauliflower,QUANTITY UNIT NAME
+1 1 ounce mozzarella cheese or 1 ounce swiss cheese,QUANTITY QUANTITY UNIT NAME NAME O O O O O
+1/2 cup mushroom,QUANTITY UNIT NAME
+1/2 teaspoon yeast,QUANTITY UNIT NAME
+1/2 cup ice,QUANTITY UNIT NAME
+1 cup corn,QUANTITY UNIT NAME
+1 dash tequila,QUANTITY UNIT NAME
+3/4 teaspoon cinnamon,QUANTITY UNIT NAME
+1 pineapple,QUANTITY NAME
+"1 orange , rind",QUANTITY NAME O NAME
+2 teaspoons raisins,QUANTITY UNIT NAME
+2 teaspoons ground coriander,QUANTITY UNIT STATE NAME
+2 quarts chicken broth,QUANTITY UNIT NAME NAME
+8 ounces frozen peas and carrots,QUANTITY UNIT TEMP NAME O NAME
+"4 ounces cream cheese , cubed",QUANTITY UNIT NAME NAME O STATE
+8 ounces fish stock or 8 ounces chicken stock,QUANTITY UNIT NAME NAME O O O O O
+2 cups buttermilk,QUANTITY UNIT NAME
+2 cans chicken broth,QUANTITY UNIT NAME NAME
+2 tablespoons Amaretto,QUANTITY UNIT NAME
+2 tablespoons garlic,QUANTITY UNIT NAME
+11/2 cups semi-sweet chocolate chocolate chips,QUANTITY UNIT STATE O NAME NAME
+3 tablespoons palm sugar or 3 tablespoons brown sugar,QUANTITY UNIT NAME NAME O O O O O
+2 lbs beef flank steak,QUANTITY UNIT NAME NAME NAME
+"3 tablespoons butter , room temperature",QUANTITY UNIT NAME O O O
+2 ounces roma tomatoes,QUANTITY UNIT NAME NAME
+6-8 cups water,QUANTITY UNIT NAME
+4 ounces porridge oats,QUANTITY UNIT NAME NAME
+8 lime wedges,QUANTITY NAME NAME
+24 sheets phyllo dough,QUANTITY UNIT NAME NAME
+4-6 pork chops,QUANTITY NAME NAME
+2 lbs eggplants,QUANTITY UNIT NAME
+4 sausages,QUANTITY NAME
+2 cups spaghetti sauce,QUANTITY UNIT NAME NAME
+2 tablespoons vodka,QUANTITY UNIT NAME
+4 teaspoons Dijon mustard,QUANTITY UNIT NAME NAME
+1 container cream cheese with chives and onions,QUANTITY UNIT NAME NAME O NAME O NAME
+2 cups rice bubbles,QUANTITY UNIT NAME NAME
+2 tablespoons sea salt,QUANTITY UNIT NAME NAME
+1 cup raisins,QUANTITY UNIT NAME
+30 ounces tomato sauce,QUANTITY UNIT NAME NAME
+4 cups vegetable stock or 4 cups water,QUANTITY UNIT NAME NAME O O O O
+7 teaspoons salt,QUANTITY UNIT NAME
+2 jars tomato paste,QUANTITY UNIT NAME NAME
+8 clams,QUANTITY NAME
+3 tablespoons milk,QUANTITY UNIT NAME
+3 lbs baby potatoes,QUANTITY UNIT NAME NAME
+1/2 cup walnut pieces,QUANTITY UNIT NAME UNIT
+3 cloves,QUANTITY NAME
+butter -LRB- optional -RRB-,NAME O O O
+2 teaspoons relish sandwich spread or 2 teaspoons mayonnaise,QUANTITY UNIT NAME NAME NAME O O O O
+"2 teaspoons baharat , spice",QUANTITY UNIT NAME O NAME
+"2 reynolds aluminum foil , packets",QUANTITY NAME NAME NAME O O
+1 package cashew nuts,QUANTITY UNIT NAME NAME
+4 egg yolks,QUANTITY NAME NAME
+1 cup sesame seeds,QUANTITY UNIT NAME NAME
+10 cups chicken stock,QUANTITY UNIT NAME NAME
+6 tablespoons cornstarch,QUANTITY UNIT NAME
+30 g carrots,QUANTITY UNIT NAME
+1/2 lb peas,QUANTITY UNIT NAME
+2 teaspoons chicken bouillon powder,QUANTITY UNIT NAME NAME NAME
+"8 tablespoons corn oil , for frying meat and veggies",QUANTITY UNIT NAME NAME O O O NAME O O
+3 cups chicken stock,QUANTITY UNIT NAME NAME
+100 g chocolate,QUANTITY UNIT NAME
+12 flour tortillas,QUANTITY NAME NAME
+1/2 lime -LRB- cut in wedges as opt garnish -RRB-,QUANTITY NAME O STATE O O O O O O
+8-10 cups water,QUANTITY UNIT NAME
+2 lbs flour,QUANTITY UNIT NAME
+tortilla chips -LRB- of course -RRB-,NAME NAME O O O O
+2 teaspoons kosher salt,QUANTITY UNIT NAME NAME
+8 eggs,QUANTITY NAME
+2 inches cinnamon sticks,QUANTITY UNIT NAME UNIT
+"21/4 lbs fresh tomatoes , cut into quarters",QUANTITY UNIT DF NAME O STATE O O
+3 tablespoons rice flour,QUANTITY UNIT NAME NAME
+3 lbs chicken breasts,QUANTITY UNIT NAME NAME
+2 tablespoons red wine vinegar or 2 tablespoons cider vinegar,QUANTITY UNIT NAME NAME NAME O O O O O
+250 g chocolate ripple biscuits,QUANTITY UNIT NAME NAME NAME
+1/4 cup soybeans,QUANTITY UNIT NAME
+6 pork hocks,QUANTITY NAME NAME
+8 lamb chops,QUANTITY NAME NAME
+3 medium tomatoes,QUANTITY SIZE NAME
+1 tablespoon molasses,QUANTITY UNIT NAME
+2 cups heineken beer,QUANTITY UNIT NAME NAME
+4 ounces ground pork or 4 ounces ground beef,QUANTITY UNIT STATE NAME O O O O O
+8 tablespoons peanut butter -LRB- use tablespoons -RRB-,QUANTITY UNIT NAME NAME O O O O
+2 tablespoons fennel seeds,QUANTITY UNIT NAME NAME
+110 g miniature marshmallows,QUANTITY UNIT NAME NAME
+2-3 anchovies -LRB- optional -RRB-,QUANTITY NAME O O O
+16 corn tortillas,QUANTITY NAME NAME
+2 lbs skirt steaks -LRB- or flank steak -RRB-,QUANTITY UNIT NAME NAME O O O NAME O
+31/2 tablespoons Signature Secrets culinary thickener,QUANTITY UNIT NAME NAME NAME NAME
+1 cup instant oats,QUANTITY UNIT NAME NAME
+500 g fish fillets,QUANTITY UNIT NAME NAME
+1 tablespoon fenugreek seeds,QUANTITY UNIT NAME NAME
+8 ounces corn niblets,QUANTITY UNIT NAME NAME
+4 cups salad greens,QUANTITY UNIT NAME NAME
+4-6 cups mozzarella cheese,QUANTITY UNIT NAME NAME
+8 flour tortillas,QUANTITY NAME NAME
+1/2 teaspoon nigella seeds,QUANTITY UNIT NAME NAME
+2-3 tablespoons wine vinegar,QUANTITY UNIT NAME NAME
+6 ears corn,QUANTITY UNIT NAME
+3/4 cup chow mein noodles,QUANTITY UNIT NAME NAME NAME
+1 ounce oats,QUANTITY UNIT NAME
+2 teaspoons Worcestershire sauce,QUANTITY UNIT NAME NAME
+7-8 lasagna sheets,QUANTITY NAME UNIT
+2 cups whipping cream -LRB- unwhipped -RRB-,QUANTITY UNIT NAME NAME O O O
+6 medium yukon gold potatoes,QUANTITY SIZE NAME NAME NAME
+2 tablespoons mustard,QUANTITY UNIT NAME
+1/4 cup parsley flakes,QUANTITY UNIT NAME NAME
+3-5 dashes ground cumin,QUANTITY UNIT STATE NAME
+4 tablespoons Worcestershire sauce,QUANTITY UNIT NAME NAME
+2 cloves,QUANTITY NAME
+20 cans beef broth,QUANTITY UNIT NAME NAME
+1/2 cup cashews,QUANTITY UNIT NAME
+1/3 cup raisins,QUANTITY UNIT NAME
+2 pints water,QUANTITY UNIT NAME
+2 teaspoons ginger powder,QUANTITY UNIT NAME NAME
+2 sausages,QUANTITY NAME
+6 ounces caster sugar -LRB- superfine -RRB-,QUANTITY UNIT NAME NAME O STATE O
+11/2 teaspoons sugar -LRB- optional -RRB-,QUANTITY UNIT NAME O O O
+75 g sultanas,QUANTITY UNIT NAME
+2 teaspoons lime juice,QUANTITY UNIT NAME NAME
+"4 ounces butter , room temperature -LRB- plus 1 tablespoon extra -RRB-",QUANTITY UNIT NAME O O O O O O O O O
+12 ounces buttermilk,QUANTITY UNIT NAME
+1 cup beef broth -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+lime slice -LRB- optional -RRB-,NAME UNIT O O O
+5 vanilla wafers,QUANTITY NAME NAME
+3 tablespoons tamarind paste or 3 tablespoons lime juice,QUANTITY UNIT NAME NAME O O O O O
+2 cups cubed butternut squash,QUANTITY UNIT STATE NAME NAME
+8-10 peppercorns -LRB- optional -RRB-,QUANTITY NAME O O O
+2 cans water,QUANTITY UNIT NAME
+1 cup raisins or 1 cup currants,QUANTITY UNIT NAME O QUANTITY UNIT NAME
+2 tablespoons ghee or 2 tablespoons oil,QUANTITY UNIT NAME O QUANTITY UNIT NAME
+3 tablespoons maple syrup,QUANTITY UNIT NAME NAME
+175 g snow peas,QUANTITY UNIT NAME NAME
+2 ounces chicken stock,QUANTITY UNIT NAME NAME
+3 teaspoons curry powder,QUANTITY UNIT NAME NAME
+1 egg -LRB- beaten -RRB-,QUANTITY NAME O STATE O
+3 pinches tarragon,QUANTITY UNIT NAME
+11/2 cups Ritz cracker crumbs,QUANTITY UNIT NAME NAME NAME
+2 tablespoons ghee or 2 tablespoons margarine,QUANTITY UNIT NAME O O O O
+1 cup dry breadcrumbs or 1 cup panko breadcrumbs,QUANTITY UNIT DF NAME O O O O O
+8 corn tortillas,QUANTITY NAME NAME
+4-6 cups water,QUANTITY UNIT NAME
+2 corn -LRB- drained -RRB-,QUANTITY NAME O STATE O
+7 cardamom pods,QUANTITY NAME NAME
+2 medium carrots,QUANTITY SIZE NAME
+2 teaspoons sea salt,QUANTITY UNIT NAME NAME
+8 ounces daikon radishes,QUANTITY UNIT NAME NAME
+"2/3 cup semisweet chocolate , pellets",QUANTITY UNIT STATE NAME O NAME
+2 teaspoons cumin powder,QUANTITY UNIT NAME NAME
+2 cups clam juice,QUANTITY UNIT NAME NAME
+2-4 tablespoons butter,QUANTITY UNIT NAME
+3 cups kale,QUANTITY UNIT NAME
+2 tablespoons custard powder,QUANTITY UNIT NAME NAME
+24 ounces water,QUANTITY UNIT NAME
+2 lbs cubed beef stew meat,QUANTITY UNIT STATE NAME NAME NAME
+3 teaspoons cumin powder,QUANTITY UNIT NAME NAME
+1 medium finely dice onion,QUANTITY SIZE O STATE NAME
+2 ounces oatmeal,QUANTITY UNIT NAME
+1 teaspoon salt -LRB- optional -RRB-,QUANTITY UNIT NAME O O O
+"2 medium apples , wedges",QUANTITY SIZE NAME O O
+4 teaspoons salt,QUANTITY UNIT NAME
+3 cans chicken broth,QUANTITY UNIT NAME NAME
+2 teaspoons Tabasco sauce,QUANTITY UNIT NAME NAME
+3 tablespoons garlic paste,QUANTITY UNIT NAME NAME
+3 cups vegetable oil,QUANTITY UNIT NAME NAME
+3 lbs sugar,QUANTITY UNIT NAME
+2 teaspoons rice vinegar,QUANTITY UNIT NAME NAME
+4 cups chicken stock,QUANTITY UNIT NAME NAME
+2 cups tomato sauce,QUANTITY UNIT NAME NAME
+11/2 teaspoons caraway seeds,QUANTITY UNIT NAME NAME
+3 medium eggs,QUANTITY SIZE NAME
+31/2 tablespoons clubhouse beef steak spices,QUANTITY UNIT O NAME NAME NAME
+2 teaspoons ground paprika,QUANTITY UNIT STATE NAME
+1 lb aubergine -LRB- eggplant -RRB-,QUANTITY UNIT NAME O O O
+2 ounces carrots,QUANTITY UNIT NAME
+"2 sirloin steaks or 3-4 chicken breasts , cut into 1/2 inch strips",QUANTITY NAME NAME O O O O O O O O O O
+5 medium carrots,QUANTITY SIZE NAME
+3 mushrooms,QUANTITY NAME
+4 pieces salmon,QUANTITY UNIT NAME
+"1 tablespoon butter , -LRB- optional -RRB-",QUANTITY UNIT NAME O O O O
+2 tablespoons cumin seeds,QUANTITY UNIT NAME NAME
+5 tortillas,QUANTITY NAME
+2 teaspoons bourbon vanilla extract,QUANTITY UNIT NAME NAME NAME
+4 hamburger buns,QUANTITY NAME NAME
+3 tablespoons sake,QUANTITY UNIT NAME
+10 allspice berries,QUANTITY NAME NAME
+1/2 tablespoon pimiento -LRB- optional -RRB-,QUANTITY UNIT NAME O O O
+4 tablespoons oyster sauce,QUANTITY UNIT NAME NAME
+6 ounces salmon fillets,QUANTITY UNIT NAME NAME
+4 tablespoons oil or 4 tablespoons lard,QUANTITY UNIT NAME O O O O
+2 teaspoons celery seeds,QUANTITY UNIT NAME NAME
+3 lbs beef round roast,QUANTITY UNIT NAME NAME NAME
+2 tablespoons chili sauce,QUANTITY UNIT NAME NAME
+1 egg -LRB- optional -RRB-,QUANTITY NAME O O O
+14 ounces of corn tostadas,QUANTITY UNIT O NAME NAME
+2 tablespoons cornflour,QUANTITY UNIT NAME
+4 rosemary sprigs,QUANTITY NAME UNIT
+4 teaspoons pumpkin pie spice,QUANTITY UNIT NAME NAME NAME
+2-3 tablespoons curry powder,QUANTITY UNIT NAME NAME
+6 cups chicken stock,QUANTITY UNIT NAME NAME
+2 tablespoons kosher salt,QUANTITY UNIT NAME NAME
+2 cardamom pods,QUANTITY NAME NAME
+12 eggs,QUANTITY NAME
+"6 chicken breasts , steaks or cutlets",QUANTITY NAME NAME O NAME O O
+6 corn tortillas or 6 flour tortillas,QUANTITY NAME NAME O O O O
+8 apples -LRB- approx . -RRB-,QUANTITY NAME O O O O
+4 hoagie rolls,QUANTITY NAME NAME
+5 egg whites,QUANTITY NAME NAME
+3 tablespoons molasses,QUANTITY UNIT NAME
+18 sheets phyllo dough,QUANTITY UNIT NAME NAME
+12-15 dates,QUANTITY NAME
+5 tablespoons flour,QUANTITY UNIT NAME
+5 fluid ounces milk,QUANTITY UNIT UNIT NAME
+2 ounces capers,QUANTITY UNIT NAME
+0.5 box vanilla wafers,QUANTITY UNIT NAME NAME
+4-6 ounces cheddar cheese -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+51/2 cups baby carrots,QUANTITY UNIT NAME NAME
+"1 English cucumber , cut in 1/2-inch slices and then quartered",QUANTITY NAME NAME O STATE O O O O O STATE
+11/2 teaspoons dried oregano,QUANTITY UNIT DF NAME
+"2 mild Italian sausage , casings removed",QUANTITY STATE NAME NAME O O O
+31/2 lbs boneless beef chuck roast,QUANTITY UNIT STATE NAME NAME NAME
+4 tablespoons olive oil -LRB- that the garlic was roasted in -RRB-,QUANTITY UNIT NAME NAME O O O NAME O O O O
+"4 slices gingerroot , julienned",QUANTITY UNIT NAME O STATE
+"4 cans minced clams with juice , reserved -LRB- figure one can per person -RRB-",QUANTITY UNIT STATE NAME O NAME O O O O O O O O O
+"2-3 tablespoons dried shiitake mushrooms , soaked and diced",QUANTITY UNIT DF NAME NAME O O O STATE
+300 g baby potatoes -LRB- chats cut into wedges -RRB-,QUANTITY UNIT NAME NAME O O STATE O O O
+3 teaspoons ground black pepper,QUANTITY UNIT STATE NAME NAME
+"1 fresh serrano chili , ribs and seeds removed , flesh minced -LRB- see note -RRB-",QUANTITY DF NAME NAME O O O O O O O O O O O O
+"1 lb hamburger , rolled into sm . meatballs",QUANTITY UNIT O O O O O O O
+"2 teaspoons baby capers , drained , rinsed",QUANTITY UNIT NAME NAME O STATE O STATE
+1 tablespoon vegetable oil -LRB- if using chuck roast -RRB-,QUANTITY UNIT NAME NAME O O O O O O
+"2 packages frozen puff pastry , defrosted -LRB- sheets -RRB-",QUANTITY UNIT TEMP NAME NAME O TEMP O O O
+4 tablespoons minced fresh Italian parsley,QUANTITY UNIT STATE DF NAME NAME
+3 tablespoons dried currants,QUANTITY UNIT DF NAME
+3 tablespoons dried onion,QUANTITY UNIT DF NAME
+4 ounces shredded monterey jack cheese or 4 ounces reduced-fat sharp cheddar cheese,QUANTITY UNIT STATE NAME NAME NAME O O O O O O O
+2 tablespoons dried onion flakes,QUANTITY UNIT DF NAME NAME
+"17 ounces corn -LRB- canned or frozen , if using canned , do n't drain -RRB-",QUANTITY UNIT NAME O STATE O O O O O O O O O O O
+1/2 teaspoon dried thyme or 11/2 teaspoons chopped fresh thyme,QUANTITY UNIT DF NAME O O O O O O
+4 lbs shredded pork with barbecue sauce,QUANTITY UNIT STATE NAME O NAME NAME
+"4 slices bread , thick slice",QUANTITY UNIT NAME O O UNIT
+1/3 cup toasted chopped walnuts -LRB- optional -RRB-,QUANTITY UNIT STATE STATE NAME O O O
+11/2 teaspoons ground black pepper,QUANTITY UNIT STATE NAME NAME
+2 tablespoons of regular soy sauce or 2 tablespoons reduced sodium soy sauce,QUANTITY UNIT O O NAME NAME O O O O O O O
+3 tablespoons olive oil -LRB- divided use -RRB-,QUANTITY UNIT NAME NAME O STATE O O
+"12 rhodes frozen dinner rolls , thawed to room temperature",QUANTITY UNIT TEMP NAME NAME O STATE O O O
+11/2 ounces finely grated parmigiano-reggiano cheese,QUANTITY UNIT O STATE NAME NAME
+2 cups cut green beans,QUANTITY UNIT STATE NAME NAME
+"2 teaspoons garlic , minced",QUANTITY UNIT NAME O STATE
+"1 jalapenos or 1 other hot pepper , minced",QUANTITY NAME O O O O O O O
+"3 quarts vanilla ice cream , softened",QUANTITY UNIT NAME NAME NAME O STATE
+2 tablespoons white wine or 2 tablespoons rose wine,QUANTITY UNIT NAME NAME O O O O O
+"2 slices whole grain bread , crusts removed",QUANTITY UNIT O NAME NAME O O O
+"2 tablespoons roasted red peppers , from a jar , chopped or sliced",QUANTITY UNIT STATE NAME NAME O O O O O O O O
+"2 cans ready-cut diced tomatoes , undrained",QUANTITY UNIT O STATE NAME O O
+3 tablespoons minced white onions,QUANTITY UNIT STATE NAME NAME
+11/4 cups chopped pitted dates,QUANTITY UNIT STATE STATE NAME
+"2 cloves garlic , smashed",QUANTITY UNIT NAME O O
+1/2 teaspoon dried chili pepper flakes,QUANTITY UNIT DF NAME NAME NAME
+4-6 cups steamed jasmine rice,QUANTITY UNIT O NAME NAME
+"1 garlic clove , minced -LRB- optional -RRB-",QUANTITY NAME UNIT O STATE O O O
+3 medium tomatoes -LRB- chopped -RRB-,QUANTITY SIZE NAME O STATE O
+3 cups granulated sugar,QUANTITY UNIT STATE NAME
+1 ounce dried porcini mushrooms,QUANTITY UNIT DF NAME NAME
+5 white onions -LRB- sliced thinly -RRB-,QUANTITY NAME NAME O STATE O O
+"11/2 lbs cooked maine lobsters , cut into 3/4 inch dice",QUANTITY UNIT STATE NAME NAME O STATE O O O O
+"2 sheets puff pastry , thawed",QUANTITY UNIT NAME NAME O STATE
+1 teaspoon dried oregano leaves,QUANTITY UNIT DF NAME NAME
+1 cup cherry tomatoes -LRB- halved or quartered -RRB- or 1 cup grape tomatoes -LRB- halved or quartered -RRB-,QUANTITY UNIT NAME NAME O STATE O O O O O O O O O O O O O
+125 g softened butter,QUANTITY UNIT STATE NAME
+"3 cups swiss cheese , shredded",QUANTITY UNIT NAME NAME O STATE
+7 dried red dates,QUANTITY DF NAME NAME
+2 teaspoons minced ginger or 1 teaspoon ginger paste,QUANTITY UNIT STATE NAME O O O O O
+"2 tablespoons fresh basil , minced or 2 teaspoons dry basil",QUANTITY UNIT DF NAME O STATE O O O O O
+1 cup dried garbanzo beans,QUANTITY UNIT DF NAME NAME
+2 tablespoons minced parsley,QUANTITY UNIT STATE NAME
+"31/2 tablespoons finely rendered beef fat , chilled -LRB- pella -RRB-",QUANTITY UNIT O O NAME O O STATE O O O
+"2 tablespoons fresh parsley , minced",QUANTITY UNIT DF NAME O STATE
+1/2 cup toasted oats,QUANTITY UNIT STATE NAME
+"2 tablespoons orange zest , grated -LRB- approximate , use 1 orange -RRB-",QUANTITY UNIT NAME NAME O STATE O O O O O O O
+1 canned tomatoes -LRB- chopped or fresh tomatoes -RRB-,QUANTITY STATE NAME O STATE O O O O
+60 g seeded raisins,QUANTITY UNIT STATE NAME
+21/2 tablespoons chopped pitted dates -LRB- about 4 -RRB-,QUANTITY UNIT STATE STATE NAME O O O O
+4 ounces caciocavallo or 4 ounces smoked mozzarella cheese,QUANTITY UNIT NAME O O O O O O
+3 3 cups chard leaves or 3 cups kale,O QUANTITY UNIT NAME NAME O O O O
+"1/4 ounce crystallized ginger , cut into 16 thin slices",QUANTITY UNIT STATE NAME O STATE O O O O
+6 tablespoons crumbled reduced-fat feta cheese,QUANTITY UNIT STATE STATE NAME NAME
+1 teaspoon dried chives,QUANTITY UNIT DF NAME
+2 English cucumbers -LRB- Sliced 1/4-Inch Thick -RRB-,QUANTITY NAME NAME O STATE O O O
+"2 tablespoons honey roasted peanuts , chopped",QUANTITY UNIT NAME STATE NAME O STATE
+5 ml garam masala,QUANTITY UNIT NAME NAME
+1 tablespoon fish sauce -LRB- nam pla -RRB-,QUANTITY UNIT NAME NAME O O O O
+1/3 cup barbecue sauce,QUANTITY UNIT NAME NAME
+1 container chicken stock,QUANTITY UNIT NAME NAME
+1/3 cup peanut butter,QUANTITY UNIT NAME NAME
+1/2 cup oat bran,QUANTITY UNIT NAME NAME
+3/4 teaspoon seasoning salt,QUANTITY UNIT NAME NAME
+3/4 teaspoon ground nutmeg,QUANTITY UNIT STATE NAME
+1 tablespoon granular sugar substitute,QUANTITY UNIT STATE NAME NAME
+1 cup pineapple juice,QUANTITY UNIT NAME NAME
+1 cup parmigiano-reggiano cheese,QUANTITY UNIT NAME NAME
+1/2 cup icing sugar,QUANTITY UNIT NAME NAME
+40 ml soy sauce,QUANTITY UNIT NAME NAME
+1/4 cup sherry wine vinegar,QUANTITY UNIT NAME NAME NAME
+1 teaspoon celery seed,QUANTITY UNIT NAME NAME
+1 tablespoon coconut oil,QUANTITY UNIT NAME NAME
+1 teaspoon icing sugar,QUANTITY UNIT NAME NAME
+500 g pork tenderloin,QUANTITY UNIT NAME NAME
+1/3 cup freshly ground parmesan cheese,QUANTITY UNIT DF STATE NAME NAME
+"1 pinch salt , pepper , ground nutmeg",QUANTITY UNIT NAME O NAME O STATE NAME
+1 package fajita seasoning mix,QUANTITY UNIT NAME NAME NAME
+1/4 cup superfine sugar,QUANTITY UNIT STATE NAME
+"1 tablespoon maggi seasoning , sauce",QUANTITY UNIT NAME NAME O NAME
+180 ml chicken stock,QUANTITY UNIT NAME NAME
+1/8 teaspoon celery seed,QUANTITY UNIT NAME NAME
+500 ml coconut milk,QUANTITY UNIT NAME NAME
+"1/2 teaspoon ginger , ground",QUANTITY UNIT NAME O STATE
+1/2 cup flax seed,QUANTITY UNIT NAME NAME
+3/4 lb ground pork,QUANTITY UNIT STATE NAME
+1 dash turmeric powder,QUANTITY UNIT NAME NAME
+375 g beef liver,QUANTITY UNIT NAME NAME
+1 tablespoon chili sauce,QUANTITY UNIT NAME NAME
+1 lb pappardelle pasta,QUANTITY UNIT NAME NAME
+"1/4 teaspoon pepper , freshly ground",QUANTITY UNIT NAME O DF STATE
+1/8 teaspoon chili powder,QUANTITY UNIT NAME NAME
+"1/2 cup cracker crumb , snack",QUANTITY UNIT NAME NAME O O
+300 ml chicken stock,QUANTITY UNIT NAME NAME
+1/2 cup isopropyl alcohol,QUANTITY UNIT NAME NAME
+1/2 teaspoon ground mustard,QUANTITY UNIT STATE NAME
+1 cup dark rum,QUANTITY UNIT NAME NAME
+1 package Knorr vegetable soup mix,QUANTITY UNIT NAME NAME NAME NAME
+1/4 cup tarragon vinegar,QUANTITY UNIT NAME NAME
+1 lb ground turkey,QUANTITY UNIT STATE NAME
+"1/2 cup cacao , powder",QUANTITY UNIT NAME O NAME
+1/2 teaspoon anise oil,QUANTITY UNIT NAME NAME
+1/2 inch cinnamon stick,QUANTITY UNIT NAME UNIT
+1 tablespoon soy sauce -LRB- low sodium -RRB-,QUANTITY UNIT NAME NAME O STATE STATE O
+1/2 teaspoon chocolate liqueur,QUANTITY UNIT NAME NAME
+1 slice swiss cheese,QUANTITY UNIT NAME NAME
+1/4 cup cocoa powder,QUANTITY UNIT NAME NAME
+1/2 cup vanilla yogurt,QUANTITY UNIT NAME NAME
+1/2 cup tapioca flour,QUANTITY UNIT NAME NAME
+1/4 teaspoon ground pepper,QUANTITY UNIT STATE NAME
+3/4 fluid ounce chartreuse liqueur,QUANTITY UNIT UNIT NAME NAME
+1/2 teaspoon coriander powder,QUANTITY UNIT NAME NAME
+"1 teaspoon allspice , ground",QUANTITY UNIT NAME O STATE
+1/4 teaspoon celery seed,QUANTITY UNIT NAME NAME
+8 g vanilla sugar,QUANTITY UNIT NAME NAME
+1/4 cup cheddar cheese,QUANTITY UNIT NAME NAME
+40 g best-quality cocoa,QUANTITY UNIT O NAME
+1-2 teaspoon ground cumin,QUANTITY UNIT STATE NAME
+1/2 cup pearl tapioca,QUANTITY UNIT NAME NAME
+1 cup creme fraiche,QUANTITY UNIT NAME NAME
+1-2 tablespoon stone ground mustard,QUANTITY UNIT O STATE NAME
+3/4 teaspoon garlic salt,QUANTITY UNIT NAME NAME
+"1 cup butter , not margarine",QUANTITY UNIT NAME O O NAME
+1 tablespoon lime juice -LRB- sour base -RRB-,QUANTITY UNIT NAME NAME O STATE NAME O
+1/2 teaspoon cardamom powder,QUANTITY UNIT NAME NAME
+1 scoop ice cream,QUANTITY UNIT NAME NAME
+1/8 teaspoon lemon juice,QUANTITY UNIT NAME NAME
+1 teaspoon chicken bouillon,QUANTITY UNIT NAME NAME
+3/4 cup lemon juice,QUANTITY UNIT NAME NAME
+"1 teaspoon pepper , coarsely ground",QUANTITY UNIT NAME O O STATE
+1 cup mozzarella cheese -LRB- Shredded -RRB-,QUANTITY UNIT NAME NAME O STATE O
+1/2 cup nonfat milk,QUANTITY UNIT STATE NAME
+1/2 ounce fennel seed,QUANTITY UNIT NAME NAME
+1/4 teaspoon garam masala,QUANTITY UNIT NAME NAME
+1 teaspoon beef bouillon powder,QUANTITY UNIT NAME NAME NAME
+1/2 cup part-skim mozzarella cheese -LRB- shredded -RRB-,QUANTITY UNIT STATE NAME NAME O STATE O
+1/2 cup light mozzarella cheese,QUANTITY UNIT DF NAME NAME
+1/2 cup ice cream,QUANTITY UNIT NAME NAME
+1 ounce orange juice,QUANTITY UNIT NAME NAME
+1/4 cup coconut cream,QUANTITY UNIT NAME NAME
+1/4 cup fish sauce,QUANTITY UNIT NAME NAME
+1/4 teaspoon garlic salt,QUANTITY UNIT NAME NAME
+3/4 cup semolina flour,QUANTITY UNIT NAME NAME
+1 cup vegetable stock -LRB- or chicken -RRB-,QUANTITY UNIT NAME NAME O O O O
+1/4 cup peanut oil -LRB- for frying -RRB-,QUANTITY UNIT NAME NAME O O O O
+1 tablespoon chili oil,QUANTITY UNIT NAME NAME
+250 ml tomato passata,QUANTITY UNIT NAME NAME
+1/2 cup barbecue sauce,QUANTITY UNIT NAME NAME
+1/2 teaspoon meat tenderizer,QUANTITY UNIT NAME NAME
+570 ml chicken stock,QUANTITY UNIT NAME NAME
+135 ml soy sauce,QUANTITY UNIT NAME NAME
+1/4 cup mint leaf -LRB- pudina -RRB-,QUANTITY UNIT NAME NAME O O O
+1 cup Clamato juice,QUANTITY UNIT NAME NAME
+1 tablespoon oyster sauce,QUANTITY UNIT NAME NAME
+1 medium garlic clove,QUANTITY SIZE NAME UNIT
+1 jar chili sauce,QUANTITY UNIT NAME NAME
+3/4 cup light mayonnaise,QUANTITY UNIT DF NAME
+1 can minute maid lemonade,QUANTITY UNIT NAME NAME NAME
+3/4 lb chicken breast,QUANTITY UNIT NAME NAME
+1/2 tablespoon chili powder,QUANTITY UNIT NAME NAME
+1/4 cup orange juice,QUANTITY UNIT NAME NAME
+1 tablespoon turmeric powder,QUANTITY UNIT NAME NAME
+1/4 cup ketjap manis -LRB- Indonesian soy sauce -RRB-,QUANTITY UNIT NAME NAME O O O O O
+1 dash garlic powder,QUANTITY UNIT NAME NAME
+1/4 cup carrot juice,QUANTITY UNIT NAME NAME
+1/2 teaspoon ground fenugreek,QUANTITY UNIT STATE NAME
+1/2 teaspoon ground thyme,QUANTITY UNIT STATE NAME
+130 g tahini -LRB- sesame paste -RRB-,QUANTITY UNIT NAME O NAME NAME O
+1/4 cup lard -LRB- pork fat -RRB-,QUANTITY UNIT NAME O O O O
+100 g baby rocket,QUANTITY UNIT NAME NAME
+1 teaspoon coconut oil,QUANTITY UNIT NAME NAME
+1 pinch salt -LRB- big pinch -RRB-,QUANTITY UNIT NAME O O O O
+3/4 cup nonfat milk,QUANTITY UNIT STATE NAME
+150 g creme fraiche,QUANTITY UNIT NAME NAME
+1 tablespoon sherry wine vinegar,QUANTITY UNIT NAME NAME NAME
+1-2 tablespoon orange juice,QUANTITY UNIT NAME NAME
+"1 goat cheese , round",QUANTITY NAME NAME O O
+1/2 cup raspberry jam,QUANTITY UNIT NAME NAME
+125 ml chicken stock,QUANTITY UNIT NAME NAME
+1 package capellini -LRB- angel hair pasta -RRB-,QUANTITY UNIT NAME O O O O O
+50 ml port wine,QUANTITY UNIT NAME NAME
+1/8 teaspoon garlic powder,QUANTITY UNIT NAME NAME
+1 tablespoon teriyaki sauce,QUANTITY UNIT NAME NAME
+1 lb penne rigate,QUANTITY UNIT NAME NAME
+"1/2 cup butter , room temp",QUANTITY UNIT NAME O O O
+"1 bell pepper , chopped , any color",QUANTITY NAME NAME O STATE O O O
+1 head iceberg lettuce,QUANTITY UNIT NAME NAME
+1/2 cup turbinado sugar,QUANTITY UNIT NAME NAME
+"1/2 lb baby corn -LRB- drained , halved -RRB-",QUANTITY UNIT NAME NAME O STATE O STATE O
+1 quart dark rum,QUANTITY UNIT O NAME
+"1 teaspoon sambal oelek -LRB- or more , chili paste -RRB-",QUANTITY UNIT NAME NAME O O O O O O O
+1 tablespoon onion powder,QUANTITY UNIT NAME NAME
+1/4 cup apple cider vinegar,QUANTITY UNIT NAME NAME NAME
+1 teaspoon carom seeds or 1 teaspoon ajwain,QUANTITY UNIT O NAME O QUANTITY UNIT NAME
+"2 cups chanterelle mushrooms , and",QUANTITY UNIT NAME NAME O O
+1/4 cup chinese rice wine or 1/4 cup sherry wine,QUANTITY UNIT NAME NAME NAME O O O O O
+"2 jalapenos , Seeded & Sliced",QUANTITY NAME O STATE O STATE
+6-8 cups cheese -LRB- cheddar & montery jack -RRB-,QUANTITY UNIT NAME O NAME O O NAME O
+1 cup white rice -LRB- short or medium grain preferred -RRB-,QUANTITY UNIT NAME NAME O O O O O O O
+4 cups and 1 tbs chicken broth,QUANTITY UNIT O O O NAME NAME
+1/2 lb turnips or 1/2 lb rutabaga,QUANTITY UNIT O O O O O
+butter or oil -LRB- for frying -RRB-,NAME O NAME O O O O
+1/4 cup low sodium chicken broth or 1/4 cup water,QUANTITY UNIT STATE STATE NAME NAME O O O O
+1 cup corn kernel -LRB- frozen or canned -RRB-,QUANTITY UNIT NAME NAME O TEMP O STATE O
+1-2 tablespoon milk or 1-2 tablespoon light cream,QUANTITY UNIT NAME O O O O O
+400 g fusilli -LRB- Spirals or Twists -RRB-,QUANTITY UNIT NAME O O O O O
+11/2 cups beef gravy -LRB- can or jar -RRB-,QUANTITY UNIT NAME O O O O O O
+"1 cup peanuts , shelled , dry and roasted , chopped -LRB- or 1/2 cup peanut butter -RRB-",QUANTITY UNIT NAME O O O DF O O O STATE O O O O O O O
+lard or oil,NAME O O
+1 lb pollock fillets or 1 lb haddock fillet,QUANTITY UNIT O NAME O O O O O
+"1 cup shredded monterey jack cheese , and -LRB- Mexican farmer cheese , 4 oz . -RRB- or 1 cup queso fresco -LRB- Mexican farmer cheese , 4 oz . -RRB-",QUANTITY UNIT STATE NAME NAME NAME O O O O O O O O O O O O O O O O O O O O O O O O O
+freshly ground salt & pepper,DF STATE NAME O NAME
+"4 hot dog buns , <ahref=""https://www.geniuskitchen.com/recipe/hamburger-or-hot-dog-buns-318739""> Hamburger or Hot Dog Buns </a>",QUANTITY NAME NAME NAME O O O O O O O O
+"tomatoes , slices and",NAME O UNIT O
+1 tablespoon margarine or 1 tablespoon butter,QUANTITY UNIT NAME O QUANTITY UNIT NAME
+1/4 cup butter -LRB- olive oil or ghee or samneh -RRB-,QUANTITY UNIT NAME O O O O O O O O
+1/4 cup salsa -LRB- medium or hot -RRB-,QUANTITY UNIT NAME O SIZE O O O
+3/4 lb cremini mushrooms or 3/4 lb portabella mushroom,QUANTITY UNIT NAME NAME O O O O O
+1/4 cup brandy -LRB- Pisco or similar -RRB-,QUANTITY UNIT NAME O O O O O
+1/4 cup sherry wine -LRB- dry or sweet -RRB-,QUANTITY UNIT NAME NAME O DF O O O
+"2 limes , juice and zest of",QUANTITY NAME O NAME O NAME O
+1/2 cup canola oil or 1/2 cup melted coconut oil,QUANTITY UNIT NAME NAME O O O O O O
+1/2 cup butter or 1/2 cup shortening,QUANTITY UNIT NAME O O O O
+1/4 cup mascarpone cheese or 1/4 cup heavy cream,QUANTITY UNIT NAME NAME O O O O O
+chicken or pork roast,NAME O O O
+1 dash salt and pepper,QUANTITY UNIT NAME O NAME
+3/4 cup butter or 3/4 cup margarine,QUANTITY UNIT NAME O O O O
+1 dried New Mexico chile -LRB- seeded and cut into 1/4 inch or smaller pieces -RRB-,QUANTITY DF O O NAME O STATE O O O O O O O O O
+1/4 cup minced mushroom,QUANTITY UNIT STATE NAME
+"7 large garlic cloves , minced",QUANTITY SIZE NAME O O STATE
+handful fairtrade brazil nut -LRB- toasted & chopped -RRB-,O NAME NAME NAME O STATE O STATE O
+1 kg minced beef,QUANTITY UNIT STATE NAME
+"2 serrano chili peppers , seeded and chopped",QUANTITY NAME NAME NAME O STATE O STATE
+"1 cup shallot , minced",QUANTITY UNIT NAME O STATE
+1 teaspoon grated orange rind,QUANTITY UNIT STATE NAME NAME
+"1 small chili , seeded and finely chopped",QUANTITY SIZE NAME O STATE O O STATE
+"1 orange rind , grated",QUANTITY NAME NAME O STATE
+"1 lb white button mushrooms , quartered",QUANTITY UNIT NAME NAME NAME O STATE
+"11/2 flank steaks , trimmed",QUANTITY O NAME O STATE
+"1/4 cup fresh oregano , minced",QUANTITY UNIT DF NAME O STATE
+1/4 cup minced fresh parsley,QUANTITY UNIT STATE DF NAME
+"1 lb cooked rock lobster meat , shredded",QUANTITY UNIT STATE NAME NAME NAME O STATE
+1 tablespoon dried dill or 1/4 ounce fresh dill -LRB- 5 sprigs -RRB-,QUANTITY UNIT DF NAME O O O O O O O O O
+1 tablespoon minced ginger,QUANTITY UNIT STATE NAME
+1/2 cup fennel -LRB- sliced or diced -RRB-,QUANTITY UNIT NAME O STATE O STATE O
+"2 small butternut squash , halved , lengthwise , seeded -LRB- about 1 lb each -RRB-",QUANTITY SIZE NAME NAME O STATE O O O STATE O O O O O O
+1/2 cup shredded mozzarella cheese,QUANTITY UNIT STATE NAME NAME
+1/2 cup finely shredded carrot,QUANTITY UNIT O STATE NAME
+1/4 teaspoon dried tarragon,QUANTITY UNIT DF NAME
+"1 lb butter , softened",QUANTITY UNIT NAME O STATE
+1/4 cup snipped fresh parsley,QUANTITY UNIT STATE DF NAME
+1/3 cup chopped dried apricot,QUANTITY UNIT STATE DF NAME
+500 g mixed dried fruit,QUANTITY UNIT NAME DF NAME
+1 cup all-purpose flour -LRB- I used self-raising flour -RRB-,QUANTITY UNIT NAME NAME O O O O O O
+"1 small onion , minced",QUANTITY SIZE NAME O STATE
+1/2 teaspoon grated fresh gingerroot -LRB- optional -RRB-,QUANTITY UNIT STATE DF NAME O O O
+1 lb beef chuck steak -LRB- cut into 0.5 in . cubes -RRB-,QUANTITY UNIT NAME O NAME O STATE O O O O O O
+1 cup chopped red bell pepper,QUANTITY UNIT STATE NAME NAME NAME
+"1/2 teaspoon dried thyme , crushed",QUANTITY UNIT DF NAME O STATE
+"1/2 head lettuce , shredded",QUANTITY UNIT NAME O STATE
+1 cup pitted kalamata olive,QUANTITY UNIT STATE NAME NAME
+2/3 cup shredded part-skim mozzarella cheese,QUANTITY UNIT STATE STATE NAME NAME
+"1 ounce parmesan cheese , grated",QUANTITY UNIT NAME NAME O STATE
+"1 vanilla bean , split and scraped -LRB- preferably Tahitian -RRB-",QUANTITY NAME NAME O O O O O O O O
+1/3 cup minced onion,QUANTITY UNIT STATE NAME
+"1 teaspoon lemon zest , dried",QUANTITY UNIT NAME NAME O DF
+1/4 cup minced garlic,QUANTITY UNIT STATE NAME
+"2-4 garlic cloves , minced -LRB- depending on taste -RRB-",QUANTITY NAME UNIT O STATE O O O O O
+"1 tablespoon ginger , grated fresh",QUANTITY UNIT NAME O STATE DF
+"1 package refrigerated angel hair pasta , uncooked",QUANTITY UNIT TEMP NAME NAME NAME O STATE
+"2/3 cup horseradish , grated",QUANTITY UNIT NAME O STATE
+"1/4 cup fresh cilantro , snipped",QUANTITY UNIT DF NAME O O
+1 teaspoon minced red onion,QUANTITY UNIT STATE NAME NAME
+"2 Thai chiles , seeded and minced",QUANTITY NAME NAME O STATE O STATE
+"3/4 lb feta cheese , crumbled",QUANTITY UNIT NAME NAME O STATE
+minced red onion,STATE NAME NAME
+1 tablespoon garlic -LRB- minced -RRB-,QUANTITY UNIT NAME O STATE O
+"1/2 jalapeno , minced",QUANTITY NAME O STATE
+"3 hard-boiled eggs , quartered",QUANTITY STATE NAME O STATE
+"1/4 cup basil leaves , shredded",QUANTITY UNIT NAME NAME O STATE
+1/8 teaspoon crumbled saffron thread,QUANTITY UNIT STATE NAME NAME
+16 large scallops -LRB- rinsed and dried -RRB-,QUANTITY SIZE NAME O STATE O DF O
+1/2 teaspoon dried tarragon,QUANTITY UNIT DF NAME
+"1-2 clove garlic , minced",QUANTITY O NAME O STATE
+"1 tablespoon unsweetened coconut , toasted",QUANTITY UNIT STATE NAME O STATE
+"6 whole wheat tortillas , warmed",QUANTITY O NAME NAME O O
+"2 chicken livers , minced",QUANTITY NAME NAME O STATE
+1/2 cup shredded red cabbage,QUANTITY UNIT STATE NAME NAME
+chopped cilantro -LRB- to garnish -RRB-,STATE NAME O O O O
+1 tablespoon freshly grated ginger,QUANTITY UNIT DF STATE NAME
+1 tablespoon minced flat leaf parsley or 1 tablespoon minced cilantro,QUANTITY UNIT STATE NAME NAME NAME O QUANTITY UNIT STATE NAME
+1/4 cup chopped candied pineapple,QUANTITY UNIT STATE STATE NAME
+"1/2 medium carrot , grated",QUANTITY SIZE NAME O STATE
+1/8 teaspoon minced garlic,QUANTITY UNIT STATE NAME
+"1 cup feta cheese , crumbled",QUANTITY UNIT NAME NAME O STATE
+"6 garlic cloves , minced",QUANTITY NAME UNIT O STATE
+"5 garlic cloves , minced",QUANTITY NAME UNIT O STATE
+"1/2 cup pine nuts , toasted",QUANTITY UNIT NAME NAME O STATE
+1/8 teaspoon dried oregano,QUANTITY UNIT DF NAME
+1 clove garlic -LRB- minced -RRB-,QUANTITY UNIT NAME O STATE O
+"1/2 large onion , finely minced",QUANTITY SIZE NAME O O STATE
+"1 lb apricot , halved and pitted",QUANTITY UNIT NAME O STATE O STATE
+"1 kg cleaned crawfish -LRB- red claw , marron , yabbies , including any big claws -RRB-",QUANTITY UNIT NAME NAME O O O O O O O O O O O O O
+125 ml evaporated milk,QUANTITY UNIT STATE NAME
+"1/4 cup parmesan cheese , grated",QUANTITY UNIT NAME NAME O STATE
+"11/2 kg chicken , segmented",QUANTITY UNIT NAME O O
+"1 small onion , chopped fine",QUANTITY SIZE NAME O STATE O
+"1/2 bbq chicken , shredded",QUANTITY NAME NAME O STATE
+"1/2 inch piece gingerroot , grated",QUANTITY UNIT UNIT NAME O STATE
+"3/4 lb baby red potato , washed , quartered",QUANTITY UNIT NAME NAME NAME O O O STATE
+"1 medium yellow sweet pepper , seeded and chopped small",QUANTITY SIZE NAME NAME NAME O STATE O STATE SIZE
+"16 sugar snap peas , trimmed",QUANTITY NAME NAME NAME O STATE
+1/2 cup salsa -LRB- I used medium heat salsa -RRB-,QUANTITY UNIT NAME O O O O O O O
+"1 red pepper , julienned",QUANTITY NAME NAME O STATE
+"1 lb chicken wings , disjointed and tips removed",QUANTITY UNIT NAME O O O O NAME O
+"1 package pitted frozen cherries , thawed",QUANTITY UNIT STATE TEMP NAME O STATE
+1/2 cup shredded part-skim mozzarella cheese,QUANTITY UNIT STATE STATE NAME NAME
+"1/3 cup parmesan cheese , grated",QUANTITY UNIT NAME NAME O STATE
+"freshly grated parmigiano-reggiano cheese , at the table",DF STATE NAME NAME O O O NAME
+1 tablespoon granulated garlic powder,QUANTITY UNIT STATE NAME NAME
+1/2 cup parmesan cheese -LRB- grated -RRB-,QUANTITY UNIT NAME NAME O STATE O
+1/2 cup toasted sesame oil,QUANTITY UNIT STATE NAME NAME
+"1/3 cup lowfat mozzarella cheese , shredded",QUANTITY UNIT STATE NAME NAME O STATE
+"1 small carrot , grated",QUANTITY SIZE NAME O STATE
+1/4 cup dried apricot -LRB- very finely chopped -RRB-,QUANTITY UNIT DF NAME O O O O O
+"125 g butter , softened",QUANTITY UNIT NAME O STATE
+"1/2 cup monterey jack cheese , grated",QUANTITY UNIT NAME NAME NAME O STATE
+"1 tablespoon garlic clove , minced",QUANTITY UNIT NAME UNIT O STATE
+1/2 teaspoon dried sage,QUANTITY UNIT DF NAME
+1/4 cup minced white onion,QUANTITY UNIT STATE NAME NAME
+"2 canned chipotle chiles , minced",QUANTITY STATE NAME NAME O STATE
+"4 carrots , quartered",QUANTITY NAME O STATE
+1 tablespoon fresh sage -LRB- finely chopped -RRB-,QUANTITY UNIT DF NAME O O STATE O
+1 cup grated swiss cheese,QUANTITY UNIT STATE NAME NAME
+"1/2 bunch cilantro , chopped fine",QUANTITY UNIT NAME O STATE O
+"1/3 cup romano cheese , coarsely grated",QUANTITY UNIT NAME NAME O O STATE
+"1 regular zucchini , julienned",QUANTITY SIZE NAME O O
+1 cup shredded coconut,QUANTITY UNIT STATE NAME
+"1/2 cup almonds , coarsely chopped , use the salted and roasted kind",QUANTITY UNIT NAME O O STATE O O O O O O O
+1/2 tablespoon dried thyme,QUANTITY UNIT DF NAME
+1 teaspoon grated lime zest,QUANTITY UNIT STATE NAME NAME
+"1/4 cup pine nuts , toasted -LRB- chopped Pecans work too -RRB-",QUANTITY UNIT NAME NAME O STATE O STATE NAME O O O
+1 teaspoon dried rosemary,QUANTITY UNIT DF NAME
+1 teaspoon dried sage,QUANTITY UNIT DF NAME
+1 cup crumbled feta cheese,QUANTITY UNIT STATE NAME NAME
+1 tablespoon grated palm sugar,QUANTITY UNIT STATE NAME NAME
+"1 small finely chopped jalapeno , deseeded",QUANTITY SIZE O STATE NAME O O
+"1/2 cup swiss cheese , -- shredded",QUANTITY UNIT NAME NAME O O STATE
+"1 cup ginger , shredded",QUANTITY UNIT NAME O STATE
+1/2 teaspoon grated nutmeg,QUANTITY UNIT STATE NAME
+2 tablespoons hot chili oil,QUANTITY UNIT TEMP NAME NAME
+6 boneless skinless chicken breast halves,QUANTITY STATE STATE NAME NAME NAME
+3-4 tablespoons all-purpose flour,QUANTITY UNIT NAME NAME
+4 cups brown stock or 4 cups canned beef broth,QUANTITY UNIT NAME NAME O O O O O O
+4 tablespoons dry white wine -LRB- optional -RRB-,QUANTITY UNIT DF NAME NAME O O O
+2 teaspoons white sugar -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+4 ounces unsweetened chocolate squares,QUANTITY UNIT STATE NAME UNIT
+6 boneless skinless chicken thighs,QUANTITY STATE STATE NAME NAME
+30 ounces part-skim ricotta cheese,QUANTITY UNIT STATE NAME NAME
+"16 ounces frozen corn on the cob , nibblers",QUANTITY UNIT TEMP NAME O O O O O
+"3 bananas , overly ripe",QUANTITY NAME O O STATE
+"2 slices white bread , 3/4 inch thick",QUANTITY UNIT NAME NAME O O O O
+2 tablespoons melted butter,QUANTITY UNIT STATE NAME
+32 ounces seasoned French fries,QUANTITY UNIT STATE NAME O
+2 tablespoons seasoned rice vinegar,QUANTITY UNIT STATE NAME NAME
+8 whole grain tortillas,QUANTITY O NAME NAME
+1 large onions or 2 medium onions,QUANTITY SIZE NAME O QUANTITY SIZE NAME
+15-20 black olives,QUANTITY NAME NAME
+crushed corn chips,STATE NAME NAME
+2 teaspoons unseasoned rice vinegar,QUANTITY UNIT STATE NAME NAME
+2 tablespoons prepared horseradish -LRB- we like hot creamed -RRB-,QUANTITY UNIT O NAME O O O O O O
+"6 cups chicken broth , low-sodium -LRB- or veggie broth ! -RRB-",QUANTITY UNIT NAME NAME O STATE O O O O O O
+2 tablespoons dry white wine or 2 tablespoons water,QUANTITY UNIT DF NAME NAME O O O O
+2 cups sour cream,QUANTITY UNIT STATE NAME
+"2 lbs tomatoes , diced",QUANTITY UNIT NAME O STATE
+3 cups small diced celery,QUANTITY UNIT SIZE STATE NAME
+1/2 small chicken breast -LRB- optional -RRB-,QUANTITY SIZE NAME NAME O O O
+2 tablespoons fresh dill,QUANTITY UNIT DF NAME
+16 ounces plain yogurt,QUANTITY UNIT O NAME
+"6 ounces Spanish onions , large dice",QUANTITY UNIT NAME NAME O SIZE STATE
+6 ounces canned diced green chiles,QUANTITY UNIT STATE STATE NAME NAME
+6 black peppercorns,QUANTITY NAME NAME
+2 fresh mint sprigs -LRB- for garnish -RRB-,QUANTITY DF NAME UNIT O O O O
+3 cups whole milk,QUANTITY UNIT O NAME
+2-3 hard-boiled eggs,QUANTITY STATE NAME
+16 ounces sour cream,QUANTITY UNIT STATE NAME
+6 tablespoons creamy peanut butter,QUANTITY UNIT NAME NAME NAME
+"16 sheets phyllo pastry dough , sheets",QUANTITY UNIT NAME NAME NAME O UNIT
+4 cups white pea beans -LRB- navy beans -RRB-,QUANTITY UNIT NAME O NAME O O O O
+11/4 cups miniature butterscotch chips,QUANTITY UNIT O NAME NAME
+"3 lbs thick meaty country style pork ribs , pork butt or 3 lbs pork shoulder",QUANTITY UNIT O O O O NAME O O NAME O O O O O O
+3 lbs of live mussels,QUANTITY UNIT O O O
+24 tablespoons soy sauce,QUANTITY UNIT NAME NAME
+"2 tablespoons szechwan pepper , ground",QUANTITY UNIT NAME NAME O STATE
+4 tablespoons soy sauce,QUANTITY UNIT NAME NAME
+2 slices American cheese,QUANTITY UNIT NAME NAME
+"2-3 baby bok choy , quartered lengthways",QUANTITY NAME NAME NAME O STATE O
+14 sheets phyllo pastry sheets,QUANTITY UNIT NAME NAME UNIT
+6 slices processed cheese,QUANTITY UNIT STATE NAME
+9 ounces plain flour,QUANTITY UNIT O NAME
+seasoned bread crumbs,STATE NAME NAME
+"1 cup avocado , diced -LRB- hass -RRB-",QUANTITY UNIT NAME O STATE O O O
+15 ounces organic tomato sauce,QUANTITY UNIT NAME NAME NAME
+3 drops sesame oil,QUANTITY UNIT NAME NAME
+15 ounces sweet peas,QUANTITY UNIT NAME NAME
+21/2 cups cold heavy cream,QUANTITY UNIT TEMP NAME NAME
+24 green asparagus,QUANTITY NAME NAME
+5 teaspoons olive oil,QUANTITY UNIT NAME NAME
+8 ounces semi-sweet chocolate chips,QUANTITY UNIT STATE NAME NAME
+2-3 large celery ribs,QUANTITY SIZE NAME O
+"3 lbs boneless beef round steak , cut into serving-size pieces",QUANTITY UNIT STATE NAME NAME NAME O O O O O
+1/8 teaspoon red pepper flakes,QUANTITY UNIT NAME NAME NAME
+2 lbs rigatoni pasta,QUANTITY UNIT NAME NAME
+1 package wide egg noodles,QUANTITY UNIT O NAME NAME
+"1 cup green pepper , chunks",QUANTITY UNIT NAME NAME O O
+1/2 teaspoon ground red pepper -LRB- cayenne -RRB-,QUANTITY UNIT STATE NAME NAME O NAME O
+3 large egg whites,QUANTITY SIZE NAME NAME
+2 tablespoons dry buttermilk,QUANTITY UNIT DF NAME
+"2 cloves garlic , crushed",QUANTITY UNIT NAME O STATE
+"3 carrots , diced",QUANTITY NAME O STATE
+2 tablespoons hot black bean sauce,QUANTITY UNIT TEMP NAME NAME NAME
+6 cups regular yogurt,QUANTITY UNIT O NAME
+"11/2 cups spaghetti , Broken -LRB- uncooked -RRB-",QUANTITY UNIT NAME O O O STATE O
+3 whole cloves,QUANTITY O NAME
+4 ripe tomatoes,QUANTITY STATE NAME
+2 green peppers,QUANTITY NAME NAME
+"8 slices French bread , 3/4 thick",QUANTITY UNIT NAME NAME O QUANTITY O
+6-8 ounces parmigiano-reggiano cheese,QUANTITY UNIT NAME NAME
+3 large onions,QUANTITY SIZE NAME
+"2 lbs stewing beef , cut into 1/2-inch cubes",QUANTITY UNIT STATE NAME O STATE O O O
+8 boneless skinless chicken breast halves,QUANTITY STATE STATE NAME NAME NAME
+olive oil -LRB- optional -RRB-,NAME NAME O O O
+5 tablespoons olive oil,QUANTITY UNIT NAME NAME
+14 ounces wide egg noodles,QUANTITY UNIT O NAME NAME
+2 white pita breads,QUANTITY NAME NAME NAME
+"black pepper , lots",NAME NAME O O
+10 black olives,QUANTITY NAME NAME
+3/4 cup fresh blueberries,QUANTITY UNIT DF NAME
+1 lb dry wheat noodles,QUANTITY UNIT DF NAME NAME
+4 ounces mexican chocolate,QUANTITY UNIT NAME NAME
+2 tablespoons red curry paste,QUANTITY UNIT NAME NAME NAME
+2 tablespoons mild indian curry powder,QUANTITY UNIT NAME NAME NAME NAME
+2 tablespoons irish cream,QUANTITY UNIT NAME NAME
+2 tablespoons unseasoned rice vinegar,QUANTITY UNIT STATE NAME NAME
+4 quarts whole milk,QUANTITY UNIT O NAME
+1 tablespoon semi-sweet chocolate chips,QUANTITY UNIT STATE NAME NAME
+2 tablespoons rosemary,QUANTITY UNIT NAME
+3 tablespoons soft brown sugar,QUANTITY UNIT NAME NAME NAME
+6 tablespoons fresh cilantro,QUANTITY UNIT DF NAME
+24 whole cloves,QUANTITY NAME UNIT
+4 sprigs fresh rosemary -LRB- very small -RRB-,QUANTITY UNIT DF NAME O O SIZE O
+2 cups white sugar,QUANTITY UNIT NAME NAME
+3 cups thick yogurt,QUANTITY UNIT O NAME
+"3 cloves garlic , crushed",QUANTITY UNIT NAME O STATE
+8 large eggs,QUANTITY SIZE NAME
+161/3 ounces pillsbury grands homestyle original biscuits,QUANTITY UNIT NAME O O NAME O
+3 ounces goat cheese -LRB- preferably `` fresh young '' -RRB-,QUANTITY UNIT NAME NAME O O O DF O O O
+21/2 cups dry chickpeas,QUANTITY UNIT DF NAME
+11/2 cups semi-sweet chocolate chips,QUANTITY UNIT STATE NAME NAME
+2 cans mexican recipe stewed tomatoes,QUANTITY UNIT NAME O STATE NAME
+"2 small sweet potatoes , diced into 1 inch cubes -LRB- about 3 pounds -RRB-",QUANTITY SIZE NAME NAME O STATE O O O O O O O O O
+2 tablespoons asian peanut oil,QUANTITY UNIT NAME NAME NAME
+2 tablespoons fresh breadcrumbs,QUANTITY UNIT DF NAME
+4 green onions,QUANTITY NAME NAME
+4-5 green onions,QUANTITY NAME NAME
+11/2 lbs boneless skinless chicken thighs,QUANTITY UNIT STATE STATE NAME NAME
+4-8 slices mozzarella cheese or 4-8 slices provolone cheese,QUANTITY UNIT NAME NAME O O O O O
+"9 slices Texas toast thick bread or 1 French baguette , sliced in 1-inch thick pieces",QUANTITY UNIT NAME NAME O NAME O O O O O O O O O O
+31/4 lbs country-style pork ribs -LRB- bone-in -RRB-,QUANTITY UNIT O NAME NAME O O O
+"4 ounces pepperoni , cut into 1/4-inch pieces",QUANTITY UNIT NAME O STATE O O O
+2 tablespoons garlic powder -LRB- or minced garlic -RRB-,QUANTITY UNIT NAME NAME O O O O O
+11/2 cups cold water -LRB- or cold coffee -RRB-,QUANTITY UNIT TEMP NAME O O O O O
+4 teaspoons english mustard paste,QUANTITY UNIT NAME NAME NAME
+10 ounces fresh spinach,QUANTITY UNIT DF NAME
+2 inches gingerroot -LRB- skin peeled -RRB-,QUANTITY UNIT NAME O O STATE O
+11/2 cups fat free chicken broth,QUANTITY UNIT STATE STATE NAME NAME
+20 warm flour tortillas,QUANTITY TEMP NAME NAME
+"1 cup red seedless grapes , halved -LRB- plus 4 small clusters for garnish -RRB-",QUANTITY UNIT NAME STATE NAME O STATE O O QUANTITY SIZE O O O O
+8 ounces monterey jack pepper cheese,QUANTITY UNIT NAME NAME NAME NAME
+3 boneless skinless chicken breasts,QUANTITY STATE STATE NAME NAME
+2 packages dry yeast,QUANTITY UNIT DF NAME
+1/4 cup whole wheat fesh breadcrumbs,QUANTITY UNIT O NAME O NAME
+4 slices red onions,QUANTITY UNIT NAME NAME
+3/4 cup all - fruit pineapple preserves,QUANTITY UNIT NAME O NAME NAME NAME
+2 tablespoons garam masala,QUANTITY UNIT NAME NAME
+6 tablespoons dark old Dutch-processed cocoa powder,QUANTITY UNIT O O O NAME NAME
+2 large white onions,QUANTITY SIZE NAME NAME
+1 lb frozen cut green beans,QUANTITY UNIT TEMP STATE NAME NAME
+1 small tomatoes,QUANTITY SIZE NAME
+2 teaspoons balsamic vinegar,QUANTITY UNIT NAME NAME
+3 lbs russet potatoes or 3 lbs yukon gold potatoes,QUANTITY UNIT NAME NAME O QUANTITY UNIT NAME NAME NAME
+2 teaspoons dry active yeast,QUANTITY UNIT DF NAME NAME
+1 cup diced tomatoes,QUANTITY UNIT STATE NAME
+14 ounces coconut milk,QUANTITY UNIT NAME NAME
+2 red bell peppers,QUANTITY NAME NAME NAME
+1/4 cup plain breadcrumbs,QUANTITY UNIT O NAME
+4 lbs fresh tomatoes,QUANTITY UNIT DF NAME
+1 tablespoon white poppy seeds,QUANTITY UNIT NAME NAME NAME
+6 large egg yolks,QUANTITY SIZE NAME NAME
+2 cans coconut milk,QUANTITY UNIT NAME NAME
+"21/2 lbs chicken legs -LRB- or you could use assorted pieces , bone-in -RRB-",QUANTITY UNIT NAME O O O O O O O O O O O
+10 black peppercorns,QUANTITY NAME NAME
+6 tablespoons soy sauce,QUANTITY UNIT NAME NAME
+"3 ml white peppercorns , slightly crushed in a mortar",QUANTITY UNIT NAME NAME O O STATE O O O
+"2 large carrots , thinly sliced",QUANTITY SIZE NAME O O STATE
+"1 cup cauliflower , thinly sliced",QUANTITY UNIT NAME O O STATE
+"8 scallions , finely chopped",QUANTITY NAME O O STATE
+1/2 cup finely chopped scallion top,QUANTITY UNIT O STATE NAME O
+"1 medium tomatoes , thinly sliced",QUANTITY SIZE NAME O O STATE
+"1/4 cup red capsicum , finely chopped",QUANTITY UNIT NAME NAME O O STATE
+"1 medium onion , roughly chopped",QUANTITY SIZE NAME O O STATE
+1 tablespoon mild molasses -LRB- I just used regular -RRB-,QUANTITY UNIT O NAME O O O O O O
+"6 large carrots , thinly sliced",QUANTITY SIZE NAME O O STATE
+"4 radishes , thinly sliced",QUANTITY NAME O O STATE
+1 teaspoon finely chopped thyme,QUANTITY UNIT O STATE NAME
+3 cups thinly sliced napa cabbage,QUANTITY UNIT O STATE NAME NAME
+"1 tablespoon fresh green onion , finely chopped -LRB- optional -RRB-",QUANTITY UNIT DF NAME NAME O O STATE O O O
+"3 eggs , lightly beaten",QUANTITY NAME O O STATE
+"3 eggs , room temperature , slightly beaten",QUANTITY NAME O O O O O STATE
+"1 large sweet potato , peeled , thinly sliced",QUANTITY SIZE NAME NAME O STATE O O STATE
+"4 green onions , thinly sliced",QUANTITY NAME NAME O O STATE
+"1/3 cup pineapple , fresh , thinly sliced",QUANTITY UNIT NAME O DF O O STATE
+"3/4 teaspoon hot pepper , finely chopped",QUANTITY UNIT TEMP NAME O O STATE
+"180 g zucchini , sliced diagonally",QUANTITY UNIT NAME O STATE O
+2 tablespoons of finely minced fresh parsley,QUANTITY UNIT O O STATE DF NAME
+"1 small onion , completely chopped",QUANTITY SIZE NAME O O STATE
+1/2 cup finely chopped green bell pepper,QUANTITY UNIT O STATE NAME NAME NAME
+2 tablespoons finely chopped cilantro,QUANTITY UNIT O STATE NAME
+"3-4 garlic cloves , chopped loosely",QUANTITY NAME UNIT O STATE O
+"1 ripe tomatoes , finely chopped",QUANTITY STATE NAME O O STATE
+1/4 cup coarsely chopped flat leaf parsley,QUANTITY UNIT O STATE O NAME NAME
+"1/3 cup lemon juice , freshly squeezed",QUANTITY UNIT NAME NAME O DF STATE
+"3 shallots , finely sliced",QUANTITY NAME O O STATE
+"8 . 4 garlic cloves , thinly sliced",QUANTITY O O NAME UNIT O O STATE
+1 tablespoon freshly grated fresh lemon rind,QUANTITY UNIT DF STATE DF NAME NAME
+"14 ounces artichokes , chopped",QUANTITY UNIT NAME O STATE
+"3 garlic cloves , finely chopped",QUANTITY NAME UNIT O O STATE
+"1 large sweet onion , sliced thinly",QUANTITY SIZE NAME NAME O STATE O
+"2 kirby cucumbers , halved lenghtwise , then thinly sliced diagonally",QUANTITY NAME NAME O STATE O O O O STATE O
+"black pepper , freshly ground",NAME NAME O DF STATE
+"1 cucumber , roughly chopped",QUANTITY NAME O O STATE
+"1 tablespoon fresh oregano , roughly chopped",QUANTITY UNIT DF NAME O O STATE
+"6 ounces coffee , freshly brewed",QUANTITY UNIT NAME O DF STATE
+"4 celery ribs , with leafy tops thinly sliced crosswise",QUANTITY NAME O O O O O O STATE O
+1/2 coarsely chopped carrot,QUANTITY O STATE NAME
+1-2 tablespoon finely chopped fresh chives,QUANTITY UNIT O STATE DF NAME
+"2-3 tablespoons orange juice , freshly squeezed",QUANTITY UNIT NAME NAME O DF STATE
+"1/2 medium onion , finely sliced",QUANTITY SIZE NAME O O STATE
+3 cups coarsely chopped cooked chicken,QUANTITY UNIT O STATE STATE NAME
+"2 tablespoons onions , finely chopped",QUANTITY UNIT NAME O O STATE
+"1 red onion , finely chopped",QUANTITY NAME NAME O O STATE
+"1 poblano pepper , thinly sliced",QUANTITY NAME NAME O O STATE
+"1 cabbage , thinly sliced",QUANTITY NAME O O STATE
+"1 teaspoon ginger , finely sliced",QUANTITY UNIT NAME O O STATE
+"1/3 cup thinly sliced basil , divided",QUANTITY UNIT O STATE NAME O STATE
+"10 basil leaves , roughly torn",QUANTITY NAME NAME O O DF
+"4 large fresh peaches , washed , peeled and chopped roughly",QUANTITY SIZE DF NAME O O O STATE O STATE O
+"1 lb baby bok choy , washed and coarsely chopped in large pieces",QUANTITY UNIT NAME NAME NAME O O O O STATE O O O
+"2 shallots or 1 small onion , finely chopped",QUANTITY NAME O O O O O O O
+2 cups sliced dried smoked sausage -LRB- can use more or less -RRB-,QUANTITY UNIT STATE DF STATE NAME O O O O O O O
+"4 garlic cloves , finely chopped and divided in half",QUANTITY NAME O O O STATE O STATE O O
+"4 ounces butter , melted and cooled",QUANTITY UNIT NAME O STATE O TEMP
+"2 tomatoes , seeded and roughly chopped or",QUANTITY NAME O STATE O O STATE O
+"1 garlic clove , minced or pressed",QUANTITY NAME O O STATE O STATE
+2-3 cups cooked chicken -LRB- cubed or shredded -RRB-,QUANTITY UNIT STATE NAME O STATE O STATE O
+"12 shallots , trimmed and halved",QUANTITY NAME O STATE O STATE
+"4 garlic cloves , peeled and thinly sliced",QUANTITY NAME O O STATE O O STATE
+"2 avocados , peeled and diced",QUANTITY NAME O STATE O STATE
+"1 carrot , peeled and diced",QUANTITY NAME O STATE O STATE
+"1 organic butternut squash , peeled and seeded -LRB- cut into 3/4 by 21/2 - inch wedges -RRB-",QUANTITY NAME NAME NAME O STATE O STATE O STATE O O O O O UNIT O O
+"2 cans cannellini beans , rinsed and drained",QUANTITY UNIT NAME NAME O STATE O STATE
+"6 russet potatoes , peeled and cubed",QUANTITY NAME NAME O STATE O STATE
+"1 can diced tomatoes , drained and patted dry",QUANTITY UNIT STATE NAME O STATE O O DF
+"2 tablespoons green chilies , finely chopped & drained",QUANTITY UNIT NAME NAME O O STATE O STATE
+"1 small jicama , peeled and diced",QUANTITY SIZE NAME O STATE O STATE
+"1 fresh figs or jar figs , whole and drained",QUANTITY DF NAME O O O O O O STATE
+"1 mango , peeled and sliced",QUANTITY NAME O STATE O STATE
+"1/4 cup green olives or 1/4 cup kalamata olive , sliced",QUANTITY UNIT NAME NAME O O O O O O O
+"3 tablespoons capers , drained and rinsed",QUANTITY UNIT NAME O STATE O STATE
+"16 ounces Velveeta cheese , grated , and divided",QUANTITY UNIT NAME NAME O STATE O O STATE
+"3 tablespoons ginger , peeled and finely chopped",QUANTITY UNIT NAME O STATE O O STATE
+"1 carrot , peeled and chopped",QUANTITY NAME O STATE O STATE
+"1 small onion , peeled & finely chopped",QUANTITY SIZE NAME O STATE O O STATE
+"3-4 baking potatoes , washed , peeled and quatered into big chunks",QUANTITY NAME NAME O O O STATE O O O O O
+"1 cucumber , peeled and grated",QUANTITY NAME O STATE O STATE
+"1 egg , beaten and divided",QUANTITY NAME O STATE O STATE
+"1 can tomatoes , chopped & drained",QUANTITY UNIT NAME O STATE O STATE
+"14 ounces stewed tomatoes , diced and well drained",QUANTITY UNIT STATE NAME O STATE O O STATE
+"4 potatoes , peeled and sliced",QUANTITY NAME O STATE O STATE
+"1/2 cup canned black beans , drained and rinsed",QUANTITY UNIT STATE NAME NAME O STATE O STATE
+"1 large red onion , peeled and julienned",QUANTITY SIZE NAME NAME O STATE O STATE
+"1 avocado , peeled and sliced",QUANTITY NAME O STATE O STATE
+"2 mangoes , peeled and diced",QUANTITY NAME O STATE O STATE
+"1 cup sweet pepper , red and yellow , chopped",QUANTITY UNIT NAME NAME O NAME O NAME O STATE
+"1 package rotini pasta , cooked and drained",QUANTITY UNIT O NAME O STATE O STATE
+"11/2 lbs red potatoes , peeled and cubed",QUANTITY UNIT NAME NAME O STATE O STATE
+"4 tablespoons parmesan cheese , grated and divided",QUANTITY UNIT NAME NAME O STATE O STATE
+1 dash black pepper,QUANTITY UNIT NAME NAME
+1/4 cup unsweetened pineapple juice,QUANTITY UNIT STATE NAME NAME
+1/2 teaspoon ammonium chloride -LRB- sal ammoniac -RRB-,QUANTITY UNIT NAME NAME O O O O
+1 cup canned pumpkin,QUANTITY UNIT STATE NAME
+1 minced garlic clove,QUANTITY STATE NAME UNIT
+1/4 cup powdered sugar,QUANTITY UNIT STATE NAME
+1/4 cup melted butter,QUANTITY UNIT STATE NAME
+3/4 cup self-raising flour,QUANTITY UNIT NAME NAME
+300 g plain flour,QUANTITY UNIT O NAME
+1 glass small medium sherry,QUANTITY UNIT SIZE SIZE NAME
+1/4 cup diced roma tomato,QUANTITY UNIT STATE NAME NAME
+1/2 cup oil -LRB- not olive oil -RRB-,QUANTITY UNIT NAME O O O O O
+"2 fresh tomatoes -LRB- large , sliced -RRB-",QUANTITY DF NAME O SIZE O STATE O
+1 envelope dry onion soup mix,QUANTITY UNIT DF NAME NAME NAME
+"1/2 cup grape tomatoes , cut up small",QUANTITY UNIT NAME NAME O STATE O SIZE
+1/2 cup frozen corn,QUANTITY UNIT TEMP NAME
+1/3 cup fat-free reduced-sodium beef broth,QUANTITY UNIT STATE STATE NAME NAME
+3/4 ounce irish cream,QUANTITY UNIT NAME NAME
+3/4 cup dark brown sugar,QUANTITY UNIT O NAME NAME
+1/2 teaspoon fresh ground pepper,QUANTITY UNIT DF STATE NAME
+1 tablespoon good vanilla,QUANTITY UNIT O NAME
+1/2 cup brown rice,QUANTITY UNIT NAME NAME
+1 tablespoon dry sherry,QUANTITY UNIT DF NAME
+1 fresh lime,QUANTITY DF NAME
+1/2 cup gluten-free hoisin sauce,QUANTITY UNIT NAME NAME NAME
+1 cup uncooked basmati rice,QUANTITY UNIT STATE NAME NAME
+2 frozen spinach,QUANTITY TEMP NAME
+1/8 liter white wine,QUANTITY UNIT NAME NAME
+1 medium ripe avocado,QUANTITY SIZE STATE NAME
+1 container sour cream,QUANTITY UNIT STATE NAME
+1 lb ricotta cheese,QUANTITY UNIT NAME NAME
+1/2 cup fresh-squeezed lemon juice,QUANTITY UNIT O NAME NAME
+1/2 cup reduced-fat peanut butter,QUANTITY UNIT STATE NAME NAME
+"285 g tofu , diced",QUANTITY UNIT NAME O STATE
+1 teaspoon Thai sweet chili sauce or 1 teaspoon sambal oelek chili paste,QUANTITY UNIT NAME NAME NAME NAME O O O O O O O
+1 cup spicy Dijon mustard,QUANTITY UNIT O NAME NAME
+1 bunch fresh coriander,QUANTITY UNIT DF NAME
+1 cup white pearl onion,QUANTITY UNIT NAME NAME NAME
+"2 tomatoes , diced",QUANTITY NAME O STATE
+6 whole star anise,QUANTITY O NAME NAME
+1/4 cup brown sugar,QUANTITY UNIT NAME NAME
+1/2 ounce triple sec,QUANTITY UNIT NAME NAME
+2/3 cup yellow cornmeal,QUANTITY UNIT NAME NAME
+1/2 cup sweet chili sauce,QUANTITY UNIT NAME NAME NAME
+"6 eggs , separated",QUANTITY NAME O STATE
+"1 cup celery , diced",QUANTITY UNIT NAME O STATE
+1/2 cup whole wheat flour,QUANTITY UNIT O NAME NAME
+1/3 cup white vinegar,QUANTITY UNIT NAME NAME
+1 large bermuda onion,QUANTITY SIZE NAME NAME
+1 tablespoon whole garam masala,QUANTITY UNIT O NAME NAME
+3-4 whole allspice,QUANTITY O NAME
+1 teaspoon Chinese five spice powder,QUANTITY UNIT NAME NAME NAME NAME
+1/3 cup diced tomato,QUANTITY UNIT STATE NAME
+1/4 cup diced celery,QUANTITY UNIT STATE NAME
+300 g minced chicken,QUANTITY UNIT STATE NAME
+1/3 cup plain yogurt,QUANTITY UNIT O NAME
+1/4 cup extra-virgin olive oil,QUANTITY UNIT NAME NAME NAME
+"3/4 teaspoon parsley , fresh",QUANTITY UNIT NAME O DF
+1/4 cup light olive oil,QUANTITY UNIT DF NAME NAME
+"3 mangoes , ripe",QUANTITY NAME O STATE
+1 package premade puff pastry,QUANTITY UNIT O NAME NAME
+1/2 cup cold water,QUANTITY UNIT TEMP NAME
+1/4 cup ricotta cheese,QUANTITY UNIT NAME NAME
+3/4 3/4 cup brown sugar or 3/4 cup white sugar,QUANTITY QUANTITY UNIT NAME NAME O O O O O
+1 large carrot,QUANTITY SIZE NAME
+3/4 cup unsweetened coconut milk,QUANTITY UNIT STATE NAME NAME
+1/2 cup fresh breadcrumb,QUANTITY UNIT DF NAME
+1 teaspoon fresh lemon juice,QUANTITY UNIT DF NAME NAME
+"1 fuji apple , cored , diced",QUANTITY NAME NAME O STATE O STATE
+1/2 teaspoon seasoned rice vinegar,QUANTITY UNIT STATE NAME NAME
+1/2 cup natural yoghurt or 1/2 cup Greek yogurt,QUANTITY UNIT O NAME O O O O O
+1 cup balsamic vinegar,QUANTITY UNIT NAME NAME
+1/3 cup seedless raisin,QUANTITY UNIT STATE NAME
+1 jar chunky spaghetti sauce,QUANTITY UNIT O NAME NAME
+1/4 ripe avocado,QUANTITY STATE NAME
+1/2 teaspoon olive oil,QUANTITY UNIT NAME NAME
+11/4 all-purpose flour,QUANTITY NAME NAME
+1 diced tomato,QUANTITY STATE NAME
+1 tablespoon sweet paprika,QUANTITY UNIT NAME NAME
+"1/2 cup mayonnaise , best food",QUANTITY UNIT NAME O O NAME
+"1 lemon , juice of , whole",QUANTITY NAME O NAME O O O
+1-2 teaspoon sweet chili sauce,QUANTITY UNIT NAME NAME NAME
+1/2 cup extra virgin olive oil or 1/2 cup sunflower oil,QUANTITY UNIT NAME NAME NAME NAME O O O O O
+125 g unsalted butter,QUANTITY UNIT STATE NAME
+1/2 cup whipped cream,QUANTITY UNIT NAME NAME
+"4 garlic cloves , diced",QUANTITY NAME UNIT O STATE
+"1/2 cup water , Cold",QUANTITY UNIT NAME O TEMP
+1/2 teaspoon dry mustard,QUANTITY UNIT DF NAME
+1 piece fresh ginger,QUANTITY UNIT DF NAME
+1 teaspoon fresh thyme,QUANTITY UNIT DF NAME
+1 teaspoon fresh lime juice,QUANTITY UNIT DF NAME NAME
+"1 tablespoon lemon juice , freshly-squeezed",QUANTITY UNIT NAME NAME O O
+"2 celery ribs , diced",QUANTITY NAME NAME O STATE
+"1 tablespoon unsalted butter , room temperature",QUANTITY UNIT STATE NAME O TEMP TEMP
+"1/2 cup beef broth , lower sodium",QUANTITY UNIT NAME NAME O O O
+1/4 cup whole wheat flour,QUANTITY UNIT O NAME NAME
+1/2 cup softened butter,QUANTITY UNIT STATE NAME
+"4 pork chops , cut 1/4 th inch thick",QUANTITY NAME NAME O O O O O O
+1 piece white bread,QUANTITY UNIT NAME NAME
+1 cup Greek yogurt,QUANTITY UNIT NAME NAME
+1/4 cup low sodium chicken broth,QUANTITY UNIT STATE STATE NAME NAME
+1 teaspoon yellow curry powder,QUANTITY UNIT NAME NAME NAME
+1 cup lukewarm water,QUANTITY UNIT TEMP NAME
+"1/3 cup unsweetened cocoa , preferably dutch process",QUANTITY UNIT STATE NAME O O O O
+1 teaspoon all-purpose flour -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+1 lb extra lean ground chicken breast,QUANTITY UNIT NAME O STATE NAME NAME
+1 tablespoon dijon-style mustard,QUANTITY UNIT O NAME
+1/8 teaspoon white pepper,QUANTITY UNIT NAME NAME
+200 g long grain rice,QUANTITY UNIT SIZE NAME NAME
+1/2 sweet onion,QUANTITY NAME NAME
+1-2 tablespoon sour cream,QUANTITY UNIT STATE NAME
+1/2 cup white wine -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+1 cup leftover ham,QUANTITY UNIT O NAME
+"1 mango , diced 1/2 inch",QUANTITY NAME O STATE QUANTITY UNIT
+1/2 teaspoon white pepper,QUANTITY UNIT NAME NAME
+1/4 teaspoon powdered turmeric,QUANTITY UNIT STATE NAME
+1/2 pint sour cream,QUANTITY UNIT STATE NAME
+"2 celery ribs , finely diced",QUANTITY NAME NAME O O STATE
+1/2 gallon hot water,QUANTITY UNIT TEMP NAME
+1/2 teaspoon balsamic vinegar,QUANTITY UNIT NAME NAME
+1/4 cup white onion,QUANTITY UNIT NAME NAME
+1/4 cup reduced-fat mayonnaise,QUANTITY UNIT STATE NAME
+1 12-inch pizza crust,QUANTITY QUANTITY NAME NAME
+125 g plain flour -LRB- wholemeal - 3/4 cup -RRB-,QUANTITY UNIT O NAME O O O O O O
+"1/4 cup unsalted butter , room temperature",QUANTITY UNIT STATE NAME O O O
+1 tablespoon hot sauce,QUANTITY UNIT TEMP NAME
+1 teaspoon balsamic vinegar,QUANTITY UNIT NAME NAME
+1/2 cup red currant jelly,QUANTITY UNIT NAME NAME NAME
+1/4 cup sweet corn,QUANTITY UNIT NAME NAME
+1/4 teaspoon italian seasoning,QUANTITY UNIT NAME NAME
+1 green bell pepper,QUANTITY NAME NAME NAME
+1/2 cup uncooked ziti pasta,QUANTITY UNIT STATE NAME NAME
+210 g unsalted butter,QUANTITY UNIT STATE NAME
+1/4 cup green pepper,QUANTITY UNIT NAME NAME
+1 cup sour cream or 1 cup whole fat yogurt,QUANTITY UNIT STATE NAME O O O O O NAME
+1 tablespoon vanilla-flavored syrup,QUANTITY UNIT O NAME
+1/2 cup chopped fresh parsley,QUANTITY UNIT STATE DF NAME
+fresh cracked pepper,DF O NAME
+"1/4 cup fresh celery , chopped",QUANTITY UNIT DF NAME O STATE
+1/2 cup pimento stuffed olive,QUANTITY UNIT NAME NAME NAME
+"1 cup basmati rice , long grain , cooked",QUANTITY UNIT NAME NAME O O O O STATE
+"1/4 lb pit-less kalamata olive , halved",QUANTITY UNIT STATE NAME NAME O STATE
+"50 g all-purpose flour , sifted",QUANTITY UNIT NAME NAME O STATE
+"1/2 cup fresh cilantro , chopped",QUANTITY UNIT DF NAME O STATE
+1 cup chopped green pepper,QUANTITY UNIT STATE NAME NAME
+"1/3 cup green onion , chopped",QUANTITY UNIT NAME NAME O STATE
+1 lb peeled deveined shrimp,QUANTITY UNIT STATE STATE NAME
+"4 large veal escalopes , pounded thin",QUANTITY SIZE NAME NAME O O O
+"1/4 cup unsalted butter , melted",QUANTITY UNIT STATE NAME O STATE
+"100 g roasted red capsicums , sliced -LRB- can use bottled roast capsicums -RRB-",QUANTITY UNIT STATE NAME NAME O O O O O O O O O
+"1 lb pork tenderloin , sliced 1/4-inch thick",QUANTITY UNIT NAME NAME O STATE O O
+1/4 cup sweetened whipped cream,QUANTITY UNIT STATE NAME NAME
+"4 large spring onions , chopped",QUANTITY SIZE NAME NAME O STATE
+"6 green onions , sliced",QUANTITY NAME NAME O STATE
+"1/4 cup green onion , sliced",QUANTITY UNIT NAME NAME O STATE
+"1/3 cup sun-dried tomato , chopped -LRB- not in oil -RRB-",QUANTITY UNIT O NAME O STATE O O O O O
+"1/4 cup sliced ripe olives , chopped",QUANTITY UNIT STATE STATE NAME O STATE
+"1 pint cherry tomatoes , sliced in half",QUANTITY UNIT NAME NAME O STATE O O
+1 cup chopped fresh cilantro,QUANTITY UNIT STATE DF NAME
+"fresh basil , torn",DF NAME O DF
+"2 medium green onions , sliced",QUANTITY SIZE NAME NAME O STATE
+"4 large eggs , separated",QUANTITY SIZE NAME O STATE
+"1/4 cup Italian parsley , rough chopped",QUANTITY UNIT NAME NAME O O STATE
+1 cup sifted powdered sugar,QUANTITY UNIT STATE STATE NAME
+"minced fresh parsley , for garnish",STATE DF NAME O O O
+1 tablespoon chopped fresh flat-leaf Italian parsley,QUANTITY UNIT STATE DF O NAME NAME
+"4 medium potatoes , sliced thin",QUANTITY SIZE NAME O STATE O
+"1/2 cup dried yellow tomatoes , chopped -LRB- or other dried tomatoes -RRB-",QUANTITY UNIT DF NAME NAME O STATE O O O O O O
+"1/4 cup red bell pepper , sliced",QUANTITY UNIT NAME NAME NAME O STATE
+1 tablespoon chopped fresh parsley -LRB- optional -RRB-,QUANTITY UNIT STATE DF NAME O O O
+"1 large sweet green pepper , chopped",QUANTITY SIZE NAME NAME NAME O STATE
+"1/2 cup black beans , drained",QUANTITY UNIT NAME NAME O STATE
+"31/2 fine quality bittersweet chocolate , chopped -LRB- use only bittersweet -RRB-",QUANTITY O O NAME NAME O STATE O O O NAME O
+"1/2 lb fresh mushrooms , sliced",QUANTITY UNIT DF NAME O STATE
+"1 red Thai chile , sliced paper-thin",QUANTITY NAME NAME NAME O STATE O
+"8 fresh mint leaves , torn",QUANTITY DF NAME NAME O DF
+"1 package sliced pepperoni , optional",QUANTITY UNIT STATE NAME O O
+"1/2 cup pimento-stuffed green olives , roughly chopped",QUANTITY UNIT O NAME NAME O O STATE
+"unsalted butter , melted",STATE NAME O STATE
+1 package frozen chopped broccoli,QUANTITY UNIT TEMP STATE NAME
+lettuce leaf,NAME NAME
+vegetable oil -LRB- for deepfrying -RRB-,NAME NAME O O O O
+mozzarella cheese,NAME NAME
+"1 cup gluten-free flour -LRB- mine is a pre-bought mix of garbanzo bean flour , potato starch , tapioca flour , white sorghum flour , -RRB-",QUANTITY UNIT STATE NAME O O O O O O O O O O O O O O O O O O O O O O
+mayonnaise,NAME
+garlic salt,NAME NAME
+chicken broth,NAME NAME
+lemon juice,NAME NAME
+shallot salt,NAME NAME
+beef stock,NAME NAME
+strawberry,NAME
+garlic,NAME
+coriander,NAME
+milk -LRB- to taste -RRB-,NAME O O O O
+almond essence,NAME NAME
+paraffin wax,O O
+sofrito sauce,O NAME
+icing sugar,NAME NAME
+spaghetti sauce,NAME NAME
+cheddar cheese,NAME NAME
+banana,NAME
+heavy duty aluminum foil,O O NAME NAME
+sour cream -LRB- for garnishing -RRB-,STATE NAME O O O O
+lemon juice -LRB- optional -RRB-,NAME NAME O O O
+lemon curd,NAME NAME
+iceberg lettuce,NAME NAME
+celery salt,NAME NAME
+olive oil -LRB- for saute -RRB-,NAME NAME O O O O
+caramel sauce,NAME NAME
+1/2 cup canned pumpkin puree -LRB- not pumpkin pie filling -RRB-,QUANTITY UNIT STATE NAME NAME O O NAME NAME O O
+cornstarch paste,NAME NAME
+"1 teaspoon garam masala -LRB- powder of cinnamon , black pepper , cloves , bayleaf ground together -RRB-",QUANTITY UNIT NAME NAME O NAME O NAME O NAME NAME O O O O STATE O O
+ice water,NAME NAME
+caster sugar,NAME NAME
+"8 ounces flank steaks , sliced against the grain into 1/4-inch thick slices",QUANTITY UNIT NAME NAME O STATE O O O O O O O
+"4 wooden skewers , soaked in water",QUANTITY NAME NAME O O O O
+21/2 tablespoons vegetable oil -LRB- or any bland oil that has a high smoke point -RRB-,QUANTITY UNIT NAME NAME O O O O O O O O O O O O
+3 tablespoons chili paste with garlic,QUANTITY UNIT NAME NAME O NAME
+1/4 kg ground beef liver -LRB- or liver spread -RRB-,QUANTITY UNIT STATE NAME NAME O O O O O
+"1/2 - 1 head fennel , cut into thin wedges",QUANTITY O O O NAME O STATE O O O
+"fresh cilantro -LRB- to taste , for garnish -RRB-",DF NAME O O O O O O O
+"1 stalk lemongrass , cut in 1-inch pieces",QUANTITY UNIT NAME O STATE O O O
+"4 large eggs , at room temperature",QUANTITY SIZE NAME O O O O
+"unsalted butter , for the griddle",STATE NAME O O O O
+"2 boneless skinless chicken breasts , cut into 1-inch squares -LRB- about 3/4 lb . -RRB-",QUANTITY STATE STATE NAME NAME O STATE O O O O O O O O O
+"1 lb boneless pork sirloin , cut in 1 inch cubes",QUANTITY UNIT STATE NAME NAME O STATE O O O O
+1 chipotle chile pepper in adobo sauce,QUANTITY NAME NAME NAME O NAME NAME
+1 teaspoon garlic powder -LRB- or crushed cloves -RRB-,QUANTITY UNIT NAME NAME O O STATE O O
+"800 g pak choi , cut into 2 cm length -LRB- or some may call `` Bak Coy '' -RRB-",QUANTITY UNIT NAME NAME O STATE O QUANTITY UNIT O O O O O O O O O O O
+extra egg -LRB- s -RRB- for egg wash,NAME NAME O O O O NAME O
+"4 scallions , cut into 3 pieces",QUANTITY NAME O STATE O QUANTITY UNIT
+"450 g chicken , cut into pieces",QUANTITY UNIT NAME O STATE O UNIT
+"1 small head of cabbage , cut into 6 wedges -LRB- about 2 pounds -RRB-",QUANTITY SIZE NAME O NAME O STATE O O O O O O O O
+"salt -LRB- optional , if using use sparingly at first -RRB-",NAME O O O O O O O O O O
+1/2 cup lemon juice -LRB- or lime juice -RRB-,QUANTITY UNIT NAME NAME O O O O O
+"mixed salad green , for 4 people",NAME NAME NAME O O QUANTITY O
+1 head bibb lettuce -LRB- or Boston lettuce -RRB-,QUANTITY O NAME NAME O O NAME NAME O
+"1 head dill , per jar -LRB- or 1/2 tsp. dill weed -RRB-",QUANTITY UNIT NAME O O O O O O O O O O
+2 tablespoons dark rum -LRB- or 4 Tbsp rum extract -RRB-,QUANTITY UNIT NAME NAME O O O O O O O
+"2 fresh chorizo sausages , cut into 1 cm thick slices",QUANTITY DF NAME NAME O STATE O QUANTITY UNIT O UNIT
+"2 green onions , cut into small pieces about 1/2 inch",QUANTITY NAME NAME O STATE O O O O O O
+1 tablespoon honey -LRB- maple syrup if not available -RRB-,QUANTITY UNIT NAME O NAME NAME O O O O
+"2 tablespoons water , about",QUANTITY UNIT NAME O O
+"1 lb unpeeled Japanese eggplant , cut into 1/2-inch-wide rounds",QUANTITY UNIT STATE STATE NAME O STATE O O O
+"1 Italian bread , cut into 1-inch pieces -LRB- or French Bread -RRB-",QUANTITY NAME NAME O O O O O O O O O O
+"1 lime , zest of , 4-5 strips of lime zest",QUANTITY NAME O NAME O O O O O O O
+"2 tablespoons of chicken maggi seasoning , instant bouillon",QUANTITY UNIT O NAME O NAME O O O
+1 tablespoon red pepper flakes -LRB- to taste -RRB-,QUANTITY UNIT NAME NAME NAME O O O O
+1 loaf of crusty French bread,QUANTITY UNIT O O NAME NAME
+2 cups cooked rice -LRB- cook 1 c dry rice with 2 c water for a 2 c rice yield -RRB-,QUANTITY UNIT STATE NAME O O O O O O O O O O O O O O O O O
+"1 lb top round beef , thinly sliced on the bias into pieces 1 inch , wide by 21/2 inches , long",QUANTITY UNIT NAME NAME NAME O O STATE O O O O O O O O O O O O O O
+"pickled onion , available on vegetable aisle",STATE NAME O O O NAME O
+"1 carrot , cut in pieces",QUANTITY NAME O STATE O UNIT
+"2 jalapeno peppers , roughly chopped -LRB- remove seeds if you do n't like heat ! -RRB-",QUANTITY NAME NAME O O STATE O O O O O O O O O O O
+"1 egg white , for egg wash",QUANTITY NAME NAME O O O O
+"1 grated orange , rind of",QUANTITY STATE NAME O NAME O
+"2 cups flour , mixture -LRB- made with the salt , pepper , garlic powder and flour . -RRB-",QUANTITY UNIT NAME O O O O O O O O O O O O O O O O
+11/2 cups cream of wheat,QUANTITY UNIT NAME O NAME
+"1/2 medium red bell pepper , cut in 1-inch chunks",QUANTITY SIZE NAME NAME NAME O STATE O O O
+"700 g thick firm white fish fillets , cut into 1 inch cubes -LRB- such as monkfish or cod -RRB-",QUANTITY UNIT O NAME NAME NAME NAME O STATE O O O O O O O O O O O
+"3 broccoli , cut into florets",QUANTITY NAME NAME STATE O NAME
+2 cans condensed cream of chicken soup -LRB- no water added -RRB-,QUANTITY UNIT STATE NAME O NAME NAME O O NAME O O
+3 tablespoons rice vinegar -LRB- or substitute white vinegar -RRB-,QUANTITY UNIT NAME NAME O O O O O O
+"1-2 lime , juice of",QUANTITY NAME O NAME O
+"1 package frozen quartered artichoke hearts , thawed , drained , and cut in half -LRB- I use a tin of artichoke 10 oz and drained it . -RRB-",QUANTITY UNIT TEMP STATE NAME NAME O STATE O STATE O O STATE O O O O O O O O O O O O O O O O
+2 tablespoons asafoetida powder -LRB- commonly called as ` hing ' in Hindi -RRB-,QUANTITY UNIT NAME NAME O O O O O O O O O O
+1 teaspoon of fresh mint,QUANTITY UNIT O DF NAME
+"2 apples , peeled",QUANTITY NAME O STATE
+"6 kaffir lime leaves , torn",QUANTITY NAME NAME NAME O DF
+"1 clove garlic , crushed",QUANTITY UNIT NAME O STATE
+1-2 cup chopped parsley,QUANTITY UNIT STATE NAME
+"1/2 garlic clove , crushed with",QUANTITY NAME O O STATE O
+1 teaspoon crushed dried mint,QUANTITY UNIT STATE DF NAME
+"4 garlic cloves , sliced",QUANTITY NAME UNIT O STATE
+"1/2 cup rutabaga , peeled , diced",QUANTITY UNIT NAME O STATE O STATE
+"1 medium garlic clove , minced or pressed through garlic press -LRB- about 1 teaspoon -RRB-",QUANTITY SIZE NAME UNIT O STATE O O O NAME O O O O O O
+1 beaten egg,QUANTITY STATE NAME
+"1 cup tomatoes , chopped",QUANTITY UNIT NAME O STATE
+"1 teaspoon coriander leaves , chopped",QUANTITY UNIT NAME NAME O STATE
+1/4 cup chopped dill,QUANTITY UNIT STATE NAME
+dried oregano,DF NAME
+served with potato,O O NAME
+"1/2 cup parsley , curley chopped",QUANTITY UNIT NAME O O STATE
+"1 cup instant rice , prepared",QUANTITY UNIT NAME NAME O O
+"1 vidalia onion , chopped",QUANTITY O NAME O STATE
+"1/2 cup onion , sliced",QUANTITY UNIT NAME O STATE
+"1 lb tomatoes , sliced",QUANTITY UNIT NAME O STATE
+1-2 dried chili,QUANTITY DF NAME
+"1/2 cup bamboo shoot , sliced",QUANTITY UNIT NAME NAME O STATE
+"2 garlic cloves , pressed",QUANTITY NAME UNIT O O
+"1 scallion , chopped",QUANTITY NAME O STATE
+1 ounce chopped onion,QUANTITY UNIT STATE NAME
+"6 lasagna noodles , cooked",QUANTITY NAME NAME O STATE
+"6 spring onions , chopped",QUANTITY NAME NAME O STATE
+"1 cup cake flour , sifted",QUANTITY UNIT NAME NAME O STATE
+"1/2 cup almonds , sliced",QUANTITY UNIT NAME O STATE
+"1 bunch cilantro , chopped",QUANTITY UNIT NAME O STATE
+1 cup chopped cilantro,QUANTITY UNIT STATE NAME
+"1/2 medium tomatoes , chopped",QUANTITY SIZE NAME O STATE
+"1/4 cup cilantro leaf , chopped",QUANTITY UNIT NAME NAME O STATE
+"1 cup beans , chopped",QUANTITY UNIT NAME O STATE
+"3-4 garlic cloves , crushed",QUANTITY NAME O O STATE
+"1 cup gingersnap cookie , crushed",QUANTITY UNIT O O O STATE
+"1/2 lb mozzarella cheese , sliced",QUANTITY UNIT NAME NAME O STATE
+1 cup sliced shiitake mushroom,QUANTITY UNIT STATE NAME NAME
+"1/2 teaspoon pepper , divided",QUANTITY UNIT NAME O STATE
+"1 tablespoon almonds , chopped",QUANTITY UNIT NAME O STATE
+"1 teaspoon chives , chopped",QUANTITY UNIT NAME O STATE
+"1/4 cup parsley , chopped -LRB- or cilantro -RRB-",QUANTITY UNIT NAME O STATE O O O O
+"1 mushroom , sliced",QUANTITY NAME O STATE
+1/3 cup chopped onion,QUANTITY UNIT STATE NAME
+1/4 teaspoon crushed thyme,QUANTITY UNIT STATE NAME
+"spinach , use 1/3 of the frozen , chopped",NAME O O O O O TEMP O STATE
+"1 tomatoes , chopped",QUANTITY NAME O STATE
+1 teaspoon chopped cilantro,QUANTITY UNIT STATE NAME
+"1 bulb of garlic , sliced",QUANTITY UNIT O NAME O STATE
+"15 g butter , melted",QUANTITY UNIT NAME O STATE
+"8 zucchini , chopped",QUANTITY NAME O STATE
+"1 can crushed pineapple , drained",QUANTITY UNIT STATE NAME O STATE
+"1 stalk celery , cut up",QUANTITY UNIT NAME O STATE O
+3/4 cup chopped onion,QUANTITY UNIT STATE NAME
+"1 bag tortilla chips , crushed",QUANTITY UNIT NAME NAME O STATE
+200 g smoked fish fillet,QUANTITY UNIT STATE NAME NAME
+"1 garlic clove , peeled",QUANTITY NAME UNIT O STATE
+1 cup chopped cantaloupe,QUANTITY UNIT STATE NAME
+1/4 teaspoon chopped garlic,QUANTITY UNIT STATE NAME
+"1 cup cheese , grated -LRB- a blend of your choice , cheddar , Mont. . Jack , etc. . . I just buy the `` Mexican '' blend at the store -RRB-",QUANTITY UNIT NAME O STATE O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 tablespoon plus 2 tsp. your favorite curry powder or 1 tablespoon curry paste,QUANTITY UNIT O QUANTITY O O O NAME NAME O O O O O
+"1 teaspoon salt , adjust for your taste the salt helps to keep it fresh when storing",QUANTITY UNIT NAME O O O O O O O O O O O O O O
+1 lb mostaccioli pasta -LRB- or your favorite -RRB- or 1 lb penne pasta -LRB- or your favorite -RRB-,QUANTITY UNIT NAME NAME O O O O O O O O O O O O O O O
+"salt , to your taste",NAME O O O O
+"red chili powder , to taste",NAME NAME NAME O O O
+1/8 cup olive oil -LRB- or mix butter and oil to make 1/8 cup -RRB-,QUANTITY UNIT NAME NAME O O O O O O O O O O O
+"1/2 tablespoon salt , to taste",QUANTITY UNIT NAME O O O
+2 teaspoons kosher salt -LRB- or according to taste -RRB-,QUANTITY UNIT NAME NAME O O O O O O
+"extra olive oil , to brush",NAME NAME NAME O O O
+"1 red jalapeno chile , sliced lengthwise -LRB- wear gloves to slice and remove seeds -RRB-",QUANTITY NAME NAME NAME O STATE O O O O O O O O O O
+1/2 cup cooking oil -LRB- I like to use Canola oil -RRB-,QUANTITY UNIT NAME NAME O O O O O O O O
+"dried oregano , to taste",DF NAME O O O
+"green salad , to serve",NAME NAME O O O
+"freshly ground salt and black pepper , to taste",DF STATE NAME O O O O O O
+to taste oil,O O NAME
+"1/2 teaspoon lime juice , to taste",QUANTITY UNIT NAME NAME O O O
+"24 ounces fresh collard greens , coarsely chopped -LRB- feel free to substitute turnip greens -RRB-",QUANTITY UNIT DF NAME NAME O O STATE O O O O NAME O NAME O
+2 teaspoons salt -LRB- or to taste -RRB-,QUANTITY UNIT NAME O O O O O
+"1/4 teaspoon salt , to taste",QUANTITY UNIT NAME O O O
+"fresh whipped cream , to serve",DF NAME NAME O O O
+"salt , to tast",NAME O O O
+"1/4 - 1/2 teaspoon garlic salt , to taste",QUANTITY O O UNIT NAME NAME O O O
+"fresh ground pepper , to taste",DF STATE NAME O O O
+"water , enough to cover the meat",NAME O O O O O O
+"parmesan cheese , grated , to taste",NAME NAME O STATE O O O
+"1 cup water , to cook rice and lentils",QUANTITY UNIT NAME O O O O O O
+"1 tablespoon cornstarch , mixed with water to form a paste",QUANTITY UNIT NAME O O O O O O O O
+2 tablespoons mild chili powder -LRB- or more to taste -RRB-,QUANTITY UNIT STATE NAME NAME O O O O O O
+1 small piece vanilla pod -LRB- or essence or paste to taste -RRB-,QUANTITY SIZE UNIT NAME NAME O O O O O O O O
+"heavy cream , to serve",NAME NAME O O O
+8 flour tortillas -LRB- burrito size -RRB-,QUANTITY NAME NAME O O O O
+salt & freshly ground black pepper -LRB- to taste -RRB-,NAME O DF STATE NAME NAME O O O O
+3 egg whites -LRB- * -RRB-,QUANTITY NAME NAME O O O
+1 lb ground veal,QUANTITY UNIT STATE NAME
+21/2 tablespoons miso,QUANTITY UNIT NAME
+2 tablespoons vegetable oil -LRB- or peanut oil -RRB-,QUANTITY UNIT NAME NAME O O O O O
+1 teaspoon roasted ground fenugreek -LRB- methi -RRB-,QUANTITY UNIT STATE STATE NAME O NAME O
+"1 lb boneless chicken breast , sliced into 1/2 x 3 inch strips",QUANTITY UNIT STATE NAME NAME O O O O O O O O
+1 cup quinoa -LRB- flakes -RRB-,QUANTITY UNIT NAME O NAME O
+"1 bell pepper , chopped -LRB- green or yellow -RRB-",QUANTITY NAME NAME O STATE O O O O O
+8 ounces flour -LRB- I use whole wheat -RRB-,QUANTITY UNIT NAME O O O O O O
+2 teaspoons fine sea salt -LRB- to fresh tomato sauce only -RRB-,QUANTITY UNIT O NAME NAME O O O O O O O
+8-9 slices bread -LRB- or more -RRB-,QUANTITY UNIT NAME O O O O
+salt and pepper -LRB- to taste -RRB-,NAME O NAME O O O O
+2 packets sugar-free orange jello -LRB- Jello -RRB-,QUANTITY O O NAME O O O O
+1 teaspoon mustard -LRB- German -RRB-,QUANTITY UNIT NAME O O O
+salt and pepper -LRB- to season -RRB-,NAME O NAME O O O O
+1/4 cup whole fresh rosemary,QUANTITY UNIT O DF NAME
+1 tablespoon soft non-hydrogenated margarine,QUANTITY UNIT NAME STATE NAME
+"1 large tomatoes , diced",QUANTITY SIZE NAME O STATE
+low-fat sour cream or fat free sour cream -LRB- optional -RRB-,STATE STATE NAME O O O O O O O O
+3/4 cup fat-free low-sodium chicken broth,QUANTITY UNIT STATE STATE NAME NAME
+3/4 cup uncooked long grain rice,QUANTITY UNIT STATE O O NAME
+1/3 cup diced red onion,QUANTITY UNIT STATE NAME NAME
+"1 bunch green onion , diced",QUANTITY UNIT NAME NAME O STATE
+1 large onion -LRB- sliced thin -RRB-,QUANTITY SIZE NAME O STATE O O
+"1 red bell pepper , diced",QUANTITY NAME NAME NAME O STATE
+turmeric powder,NAME NAME
+"1 lb sausage , pork -LRB- I use `` hot '' Italian or another spicy sausage -RRB-",QUANTITY UNIT NAME O NAME O O O O O O O O O O O O
+coarse grain mustard,O NAME NAME
+1 teaspoon whole black peppercorn,QUANTITY UNIT O NAME NAME
+"1 large carrot , diced",QUANTITY SIZE NAME O STATE
+1/2 small yellow onion,QUANTITY SIZE NAME NAME
+200 g sugar-free bittersweet chocolate,QUANTITY UNIT STATE NAME NAME
+"1 red bell pepper , seeded and diced",QUANTITY NAME NAME NAME O STATE O STATE
+1/2 cup nonfat sour cream or 1/2 cup low-fat sour cream,QUANTITY UNIT STATE STATE NAME O O O O O O
+1 cup uncooked long-grain white rice,QUANTITY UNIT STATE O NAME NAME
+1 tablespoon whole mixed pickling spice,QUANTITY UNIT O NAME O NAME
+fresh feta cheese,DF NAME NAME
+1/2 teaspoon whole black peppercorn,QUANTITY UNIT O NAME NAME
+1 prebaked thin italian bread pizza crust,QUANTITY O O NAME NAME NAME NAME
+a little lemon juice,O O NAME NAME
+"2 pickled jalapeno peppers , seeded and diced",QUANTITY STATE NAME NAME O STATE O STATE
+"1 jalapeno pepper , seeded and diced",QUANTITY NAME NAME O STATE O STATE
+"3/4 cup prepared marinara sauce , heated",QUANTITY UNIT O NAME NAME O TEMP
+1/2 cup soft brown sugar,QUANTITY UNIT NAME NAME NAME
+shredded cheddar cheese,STATE NAME NAME
+1/3 cup extra virgin olive oil,QUANTITY UNIT NAME NAME NAME NAME
+1 cup low-sodium low-fat chicken broth,QUANTITY UNIT STATE STATE NAME NAME
+1 pint yellow cherry tomato,QUANTITY UNIT NAME NAME NAME
+1 teaspoon extra virgin olive oil,QUANTITY UNIT NAME NAME NAME NAME
+red food coloring,NAME NAME NAME
+1/4 cup plain low-fat yogurt,QUANTITY UNIT O STATE NAME
+sharp cheddar cheese,O NAME NAME
+1 cup low fat cottage cheese,QUANTITY UNIT O O NAME NAME
+"1/4 teaspoon white pepper -LRB- if unavailable , use black pepper -RRB-",QUANTITY UNIT NAME NAME O O O O O O O O
+1 large loaf French bread,QUANTITY SIZE O NAME NAME
+"1 large onion , finely diced",QUANTITY SIZE NAME O O STATE
+200 g soft fresh goat cheese,QUANTITY UNIT NAME DF NAME NAME
+1 cup dry red wine,QUANTITY UNIT DF NAME NAME
+185 g soft brown sugar,QUANTITY UNIT NAME NAME NAME
+white pepper,NAME NAME
+shredded parmesan cheese,STATE NAME NAME
+1 jalapeno,QUANTITY NAME
+1/3 cup low fat cottage cheese,QUANTITY UNIT STATE STATE NAME NAME
+"2 ripe tomatoes , diced",QUANTITY STATE NAME O STATE
+"jalapeno pepper , seeded and diced",NAME NAME O STATE O STATE
+"4 fresh boneless skinless chicken breasts , pounded thin",QUANTITY DF STATE STATE NAME NAME O O O
+"1 cup red onion , diced",QUANTITY UNIT NAME NAME O STATE
+"1/2 fresh onion , diced",QUANTITY DF NAME O STATE
+1 container sour cream -LRB- use plain yogurt for low-fat equivalent -RRB-,QUANTITY UNIT STATE NAME O O O NAME O STATE O O
+1 tablespoon garlic-infused olive oil,QUANTITY UNIT NAME NAME NAME
+1/2 teaspoon fresh grated nutmeg,QUANTITY UNIT DF STATE NAME
+11/4 cups mayonnaise,QUANTITY UNIT NAME
+11/2 tablespoons olive oil,QUANTITY UNIT NAME NAME
+31/2 tablespoons vinegar,QUANTITY UNIT NAME
+2 lemon cucumbers or 1 English cucumber,QUANTITY NAME NAME O O O O
+21/2 quarts water,QUANTITY UNIT NAME
+11/4 cups sugar,QUANTITY UNIT NAME
+11/2 cups wine vinegar or 11/2 cups cider vinegar,QUANTITY UNIT NAME NAME O O O O O
+21/2 cups zucchini,QUANTITY UNIT NAME
+13/4 cups warm water,QUANTITY UNIT TEMP NAME
+11/2 teaspoons cider vinegar,QUANTITY UNIT NAME NAME
+2 2 cups pork stock or 2 cups water,QUANTITY QUANTITY UNIT NAME NAME O O O O
+31/4 cups water,QUANTITY UNIT NAME
+111/2 ounces tomato juice,QUANTITY UNIT NAME NAME
+11/2 cups Minute Rice,QUANTITY UNIT NAME NAME
+2 tablespoons fresh dill -LRB- or 2 tsp dried -RRB-,QUANTITY UNIT DF NAME O O O O O O
+6 - 61/2 lbs leg of lamb,QUANTITY O O UNIT NAME NAME NAME
+5 - 51/2 cups flour,QUANTITY O O UNIT NAME
+11/2 teaspoons soy sauce,QUANTITY UNIT NAME NAME
+11/2 tablespoons tandoori curry paste,QUANTITY UNIT NAME NAME NAME
+"11/2 lbs round steaks , raw , 3/4 to 1 inch thick",QUANTITY UNIT NAME NAME O STATE O O O O O O
+11/2 - 2 cups water,QUANTITY O O UNIT NAME
+11/2 teaspoons kosher salt,QUANTITY UNIT NAME NAME
+11/2 teaspoons brandy,QUANTITY UNIT NAME
+13/4 cups plus 1 tablespoon all-purpose flour,QUANTITY UNIT O O O NAME NAME
+11/2 cups beef broth,QUANTITY UNIT NAME NAME
+"3 ounces vermicelli , spaghetti -LRB- about 1 cup -RRB- or 3 ounces extra-fine egg noodles , broken in 3 - to 4-inch lengths -LRB- about 1 cup -RRB-",QUANTITY UNIT NAME O NAME O O O O O O O O O O O O O O O O O O O O O QUANTITY UNIT O
+21/4 cups milk,QUANTITY UNIT NAME
+11/2 tablespoons mild salsa,QUANTITY UNIT STATE NAME
+11/4 teaspoons salt,QUANTITY UNIT NAME
+11/4 cups mascarpone cheese,QUANTITY UNIT NAME NAME
+21/2 cups milk,QUANTITY UNIT NAME
+3-4 3-4 lbs pork or 3-4 lbs beef,QUANTITY QUANTITY UNIT NAME O O O O
+21/2 cups vegetable stock,QUANTITY UNIT NAME NAME
+1 cinnamon stick -LRB- about 3 inches long -RRB-,QUANTITY NAME UNIT O O QUANTITY UNIT O O
+1 1 lb chicken thighs or 1 lb chicken breast,QUANTITY QUANTITY UNIT NAME NAME O O O O O
+11/2 tablespoons butter,QUANTITY UNIT NAME
+11/2 teaspoons red wine vinegar,QUANTITY UNIT NAME NAME NAME
+6 6 inch fajita-size flour tortillas,O QUANTITY UNIT NAME NAME NAME
+31/2 tablespoons olive oil,QUANTITY UNIT NAME NAME
+31/2 ounces salt,QUANTITY UNIT NAME
+21/2 teaspoons cumin,QUANTITY UNIT NAME
+11/4 cups dark rum,QUANTITY UNIT NAME NAME
+1 teaspoon salt 21/2 cups warm water,QUANTITY UNIT NAME O O O O
+11/4 cups water,QUANTITY UNIT NAME
+11/2 cups white vinegar,QUANTITY UNIT NAME NAME
+8 ounces borlotti beans -LRB- cooked -RRB-,QUANTITY UNIT NAME NAME O STATE O
+2 poblano peppers -LRB- chopped -RRB-,QUANTITY NAME NAME O STATE O
+2 small French baguettes -LRB- cut into 1-1 1/2 think slices -RRB-,QUANTITY SIZE NAME O O STATE O O O O O O
+1 package rice noodles -LRB- flat kind -RRB-,QUANTITY UNIT NAME NAME O O O O
+2 tablespoons paprika,QUANTITY UNIT NAME
+8 ounces linguine,QUANTITY UNIT NAME
+"3/4 cup cashew nuts -LRB- roasted , unsalted -RRB-",QUANTITY UNIT NAME NAME O O O STATE O
+snow peas -LRB- optional -RRB-,NAME NAME O O O
+1-2 tablespoon protein powder -LRB- or other nutritional powder -RRB- -LRB- optional -RRB-,QUANTITY UNIT O NAME O O O O O O O O O
+"4 large onions , sliced thin",QUANTITY SIZE NAME O STATE O
+6 pork ribs -LRB- spareribs -RRB-,QUANTITY NAME O O O O
+7 cups water -LRB- more or less -RRB-,QUANTITY UNIT NAME O O O O O
+1 cup mushroom pieces -LRB- optional -RRB-,QUANTITY UNIT NAME UNIT O O O
+"red fruit -LRB- strawberries , red grapes , raspberries etc. . -RRB-",NAME NAME O O O O O O O O O O
+2 tablespoons garlic -LRB- or 3 cloves garlic -RRB-,QUANTITY UNIT NAME O O O O O O
+21/4 fluid ounces waterview dark rum,QUANTITY UNIT UNIT NAME NAME NAME
+10 guajillo chilies -LRB- dried -RRB-,QUANTITY NAME NAME O DF O
+1 cup green beans -LRB- fresh or frozen -RRB-,QUANTITY UNIT NAME NAME O DF O O O
+"23 g Oreo cookie crumbs -LRB- about 4 tablespoons , more or less as you prefer -RRB-",QUANTITY UNIT NAME NAME NAME O O O O O O O O O O O O
+1 bag frozen peas -LRB- optional -RRB-,QUANTITY UNIT TEMP NAME O O O
+2-4 garlic cloves -LRB- minced -RRB-,QUANTITY NAME UNIT O STATE O
+4 medium potatoes -LRB- peeled -RRB-,QUANTITY SIZE NAME O STATE O
+10 ml blue curacao,QUANTITY UNIT NAME NAME
+1/4 teaspoon Lawry 's Seasoned Salt,QUANTITY UNIT O O NAME NAME
+1 teaspoon chicken marinade -LRB- Lea & Perrins Marinade for Chicken -RRB-,QUANTITY UNIT NAME O O O O O O O O O
+Cotija cheese,NAME NAME
+1/4 teaspoon cayenne pepper -LRB- optional -RRB-,QUANTITY UNIT NAME NAME O O O
+1/4 teaspoon cayenne,QUANTITY UNIT NAME
+2 teaspoons bottled Thai sweet chili sauce -LRB- like Mae Ploy -RRB-,QUANTITY UNIT O NAME NAME NAME NAME O O O O O
+1 dash cayenne,QUANTITY UNIT NAME
+1 tablespoon Mrs. Dash tomato basil garlic seasoning,QUANTITY UNIT O UNIT NAME NAME NAME NAME
+"1 vanilla bean , split",QUANTITY NAME NAME O O
+1 dash blue curacao,QUANTITY UNIT NAME NAME
+"16 ounces Cool Whip Topping , - 16 oz",QUANTITY UNIT NAME NAME NAME O O O O
+1/2 tablespoon ground mace,QUANTITY UNIT STATE NAME
+1/8 - 1/4 teaspoon cayenne pepper,QUANTITY O O UNIT NAME NAME
+"salt , Pepper",NAME O NAME
+1/4 g cayenne pepper -LRB- to taste -RRB-,QUANTITY UNIT NAME NAME O O O O
+1 pinch cayenne -LRB- to taste -RRB-,QUANTITY UNIT NAME O O O O
+1/2 teaspoon seafood seasoning such as Old Bay Seasoning,QUANTITY UNIT NAME NAME O O O NAME NAME
+3/4 ounce Kahlua,QUANTITY UNIT NAME
+2 tablespoons Lawry 's Seasoned Salt,QUANTITY UNIT O O NAME NAME
+1 boneless leg of lamb -LRB- New Zealand -RRB-,QUANTITY STATE NAME O NAME O O O O
+1 tablespoon Thai fish sauce,QUANTITY UNIT NAME NAME NAME
+1/2 lb chorizo sausage -LRB- Mexican sausage -RRB-,QUANTITY UNIT NAME NAME O O O O
+"11/2 cups shredded mozzarella cheese -LRB- In Mexico , asadero or chihuahua can be used -RRB-",QUANTITY UNIT STATE NAME NAME O O O O O O O O O O O
+1 pinch cayenne,QUANTITY UNIT NAME
+1 dash cayenne pepper,QUANTITY UNIT NAME NAME
+1/2 cup pine nut oil,QUANTITY UNIT NAME NAME NAME
+1/2 teaspoon red chili pepper flakes or 1/4 teaspoon cayenne pepper,QUANTITY UNIT NAME NAME NAME NAME O O O O O
+8 ounces seitan -LRB- I used 8oz package Gardein Beefless Tips -RRB-,QUANTITY UNIT NAME O O O O O O O O O
+1 dash nanami togarashi -LRB- option -RRB-,QUANTITY UNIT NAME NAME O O O
+1 can campbell 's old fashioned vegetable soup,QUANTITY UNIT NAME O O O O O
+8 ounces cream cheese -LRB- you can use lite but regular is better -RRB-,QUANTITY UNIT NAME NAME O O O O O O O O O O
+1 can kidney beans,QUANTITY UNIT NAME NAME
+6 cups chicken broth -LRB- it may take more -RRB-,QUANTITY UNIT NAME NAME O O O O O O
+1 can mushrooms,QUANTITY UNIT NAME
+"1 can goya whole kernel golden corn , drain and rinsed",QUANTITY UNIT NAME NAME NAME NAME NAME O O O STATE
+1 can cream of celery soup,QUANTITY UNIT NAME O NAME NAME
+"1 can hearts of palm , chopped",QUANTITY UNIT NAME O NAME O STATE
+1 can reduced-sodium chicken broth,QUANTITY UNIT STATE NAME NAME
+"1 can stewed tomatoes , drained",QUANTITY UNIT STATE NAME O STATE
+1 can raspberries,QUANTITY UNIT NAME
+"1 can diced tomatoes , undrained",QUANTITY UNIT STATE NAME O STATE
+1 can cherry pie filling,QUANTITY UNIT NAME NAME NAME
+"4 tablespoons fresh coriander leaves , chopped for garnish -LRB- you can use parsley instead -RRB-",QUANTITY UNIT DF NAME NAME O STATE O O O O O O O O O
+1 can apple pie filling,QUANTITY UNIT NAME NAME NAME
+"1 can diced tomatoes , with the juice -LRB- petite diced -RRB-",QUANTITY UNIT STATE NAME O O O O O O O O
+1 can beef broth,QUANTITY UNIT NAME NAME
+1 can chicken broth or -LRB- 141/2 ounce -RRB- can vegetable broth,QUANTITY UNIT NAME NAME O O O O O O O O
+"1 can black olives , sliced",QUANTITY UNIT NAME NAME O STATE
+"1 can black beans , rinsed -LRB- no-salt added -RRB-",QUANTITY UNIT NAME NAME O STATE O O O O
+1 can Bush 's red beans,QUANTITY UNIT O O NAME NAME
+"1 can beans , chili starter -LRB- not a pre-made chili -RRB-",QUANTITY UNIT NAME O NAME O O O O O O O
+1 stubby beer -LRB- you wont need it all -RRB-,QUANTITY NAME NAME O O O O O NAME O
+1 can chopped green chilies,QUANTITY UNIT STATE NAME NAME
+1 can enchilada sauce,QUANTITY UNIT NAME NAME
+1 can baby corn,QUANTITY UNIT NAME NAME
+1 can stir fry vegetables,QUANTITY UNIT NAME NAME NAME
+0.5 can garbanzo beans,QUANTITY UNIT NAME NAME
+"1 clove garlic , Smashed",QUANTITY UNIT NAME O O
+1 - 101/2 ounce soup can water,QUANTITY O O UNIT NAME UNIT NAME
+"1 can Wolf brand chili , no beans",QUANTITY UNIT NAME NAME NAME O O O
+1 can whole peeled tomatoes with liquid,QUANTITY UNIT O STATE NAME O O
+1/2 teaspoon crushed red pepper flakes -LRB- can be omitted if you prefer -RRB-,QUANTITY UNIT STATE NAME NAME NAME O O O O O O O O
+1 kg stewing beef,QUANTITY UNIT STATE NAME
+2 cups boiling water,QUANTITY UNIT STATE NAME
+"6-8 lbs beef brisket -LRB- in the UK , beef roast -RRB-",QUANTITY UNIT NAME O O O O O O NAME NAME O
+"pico de gallo , for topping",O O O O O O
+8 ounces whipping cream,QUANTITY UNIT NAME NAME
+diet fudge topping -LRB- optional -RRB- or chocolate fudge topping -LRB- optional -RRB-,O O O O O O O O O O O O O
+1 tablespoon double-acting baking powder,QUANTITY UNIT NAME NAME NAME
+"1/2 cup soy sauce -LRB- I use Kikkoman , most generic kinds are watery -RRB-",QUANTITY UNIT NAME NAME O O O O O O O O O O O
+2 teaspoons browning sauce,QUANTITY UNIT O NAME
+"4 cups vegetable stock , simmering",QUANTITY UNIT NAME NAME O O
+"extra flour , for dipping",NAME NAME O O O
+1/4 teaspoon spike seasoning,QUANTITY UNIT NAME NAME
+1/2 tablespoon baking soda,QUANTITY UNIT NAME NAME
+1/2 pint whipping cream,QUANTITY UNIT NAME NAME
+1/2 - 1 teaspoon Italian herb seasoning,QUANTITY O QUANTITY UNIT NAME NAME NAME
+6 paper baking cups,QUANTITY NAME NAME UNIT
+"1 pint whipping cream -LRB- For lower fat option , use non dairy whipped topping in place of whipping cream -RRB-",QUANTITY UNIT NAME NAME O O O O O O O O O O O O O O O O O
+1 packet chili seasoning mix -LRB- we like Williams brand -RRB-,QUANTITY UNIT NAME NAME NAME O O O O O O
+2 tablespoons hoisin sauce,QUANTITY UNIT NAME NAME
+1 tablespoon whipping cream,QUANTITY UNIT NAME NAME
+cooking oil,NAME NAME
+2 teaspoons baking powder -LRB- not soda -RRB-,QUANTITY UNIT NAME NAME O O O O
+1 tablespoon Morton nature seasons seasoning blend,QUANTITY UNIT NAME NAME NAME NAME NAME
+"olive oil , for brushing pan",NAME NAME O O O O
+1/4 cup cooking oil,QUANTITY UNIT NAME NAME
+2 tablespoons cooking spray,QUANTITY UNIT NAME NAME
+"cornmeal , for dusting pans",NAME O O O O
+1 tablespoon puerto rican seasoning salt,QUANTITY UNIT NAME NAME NAME NAME
+"1 cup water , boiling",QUANTITY UNIT NAME O STATE
+11/2 tablespoons baking powder,QUANTITY UNIT NAME NAME
+1 cup cornstarch -LRB- in a plastic baggie -RRB-,QUANTITY UNIT NAME O O O O O O
+"olive oil , for sauteeing",NAME NAME O O O
+"shredded parmesan cheese , for topping",STATE NAME NAME O O O
+"1 tablespoon oil , for sauteeing",QUANTITY UNIT NAME O O O
+gelatin,NAME
+3/4 tablespoon baking powder,QUANTITY UNIT NAME NAME
+caramel ice cream topping,NAME NAME NAME NAME
+5 fluid ounces boiling water,QUANTITY UNIT UNIT STATE NAME
+"milk , for brushing",NAME O O O
+11/2 lbs leaves spinach -LRB- not baby -RRB-,QUANTITY UNIT NAME NAME O O NAME O
+"2 stalks celery , coarsely chopped",QUANTITY UNIT NAME O O STATE
+15 curry leaves,QUANTITY NAME NAME
+"2/3 cup sugar , more if you use sour cream",QUANTITY UNIT NAME O O O O O STATE NAME
+"3 cups chopped broccoli -LRB- , peeled stems included -RRB-",QUANTITY UNIT STATE NAME O O STATE O O O
+7-10 stalks chard leaves,QUANTITY UNIT NAME NAME
+21/4 ounces colored candy sprinkles,QUANTITY UNIT NAME NAME NAME
+1/2 cup chopped fresh mint leaves,QUANTITY UNIT STATE DF NAME NAME
+"3 stalks celery , diagonally sliced",QUANTITY UNIT NAME O O STATE
+1/2 cup veggie crumbles -LRB- or veggie steak strips -RRB-,QUANTITY UNIT NAME NAME O O O O O O
+"1/2 cup blue cheese , crumbles",QUANTITY UNIT NAME NAME O O
+starburst decorative candies -LRB- Sour is best -RRB-,NAME NAME NAME O O O O O
+3 sprigs curry leaves,QUANTITY UNIT NAME NAME
+5 bay leaves,QUANTITY NAME NAME
+1/2 cup vinegar -LRB- Greeks use red wine vinegar which is not halal -RRB-,QUANTITY UNIT NAME O O O O O O O O O O O
+450 g prawns -LRB- shrimp uncooked 1 lb -RRB-,QUANTITY UNIT NAME O O O O O O
+3/4 lb powdered sugar -LRB- Add more if icing is too thin -RRB-,QUANTITY UNIT STATE NAME O O O O O O O O O
+1 teaspoon tender thyme leaves,QUANTITY UNIT NAME NAME NAME
+1 tablespoon chopped fresh parsley leaves,QUANTITY UNIT STATE DF NAME NAME
+1 cup Russian salad dressing -LRB- bottled is ok too -RRB-,QUANTITY UNIT NAME NAME O O O O O O O
+1 sprig celery leaves ,QUANTITY UNIT NAME NAME 
