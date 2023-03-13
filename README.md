@@ -1,4 +1,4 @@
-# Named Entity Based Approach to Model Recipes
+# About
 
 ***Top F1 scores on manually annotated dataset(6k)***
 
