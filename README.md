@@ -1,4 +1,4 @@
-# NER_IP
+# Named Entity Based Approach to Model Recipes
 
 ***Top F1 scores on manually annotated dataset(6k)***
 
