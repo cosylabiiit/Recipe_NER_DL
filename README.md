@@ -4,5 +4,5 @@
 
 DistlBert: 94.3
 
-Spacy    : 94.67
+Spacy    : 95.95
 
